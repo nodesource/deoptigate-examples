@@ -39,6 +39,14 @@ class CodeView extends Component {
     this._onmarkerClicked = this._onmarkerClicked.bind(this)
   }
 
+  _maybeScrollIntoView() {
+    const { selectedLocation } = this.props
+    if (selectedLocation == null) { return }
+    const code = document.getElementById(`code-location-${selectedLocation}`)
+    if (code == null) { return }
+    scrollIntoView(code, { behavior: 'smooth', scrollMode: 'if-needed' })
+  }
+
   componentDidMount() {
     const rootEl = ReactDOM.findDOMNode(this)
     rootEl.addEventListener('click', event => {
@@ -49,14 +57,11 @@ class CodeView extends Component {
       event.stopPropagation()
       this._onmarkerClicked(parseInt(markerid), markertype)
     })
+    this._maybeScrollIntoView()
   }
 
   componentDidUpdate() {
-    const { selectedLocation } = this.props
-    if (selectedLocation == null) { return }
-    const code = document.getElementById(`code-location-${selectedLocation}`)
-    if (code == null) { return }
-    scrollIntoView(code, { behavior: 'smooth', scrollMode: 'if-needed' })
+    this._maybeScrollIntoView()
   }
 
   shouldComponentUpdate(nextProps) {
@@ -149,10 +154,15 @@ const { Component } = React
 const { CodeView } = require('./code')
 const { SummaryView } = require('./summary')
 
+const assert = require('assert')
+
 class FileDetailsView extends Component {
   constructor(props) {
     super(props)
-    this.state = { selectedSummaryTabIdx: SummaryView.OPT_TAB_IDX }
+
+    const { onsummaryTabIdxChanged } = props
+    assert.equal(typeof onsummaryTabIdxChanged, 'function', 'need to pass onsummaryTabIdxChanged function')
+
     this._bind()
   }
 
@@ -169,10 +179,9 @@ class FileDetailsView extends Component {
       , includeAllSeverities
       , highlightCode
       , className = ''
+      , selectedSummaryTabIdx
       , onsummaryClicked
     } = this.props
-
-    const { selectedSummaryTabIdx } = this.state
 
     const {
         ics
@@ -196,24 +205,31 @@ class FileDetailsView extends Component {
   }
 
   _onmarkerClicked(id, type) {
-    const { onmarkerClicked } = this.props
-    const selectedSummaryTabIdx = (
+    const {
+        onmarkerClicked
+      , onsummaryTabIdxChanged
+      , selectedSummaryTabIdx
+    } = this.props
+    const markerSummaryTabIdx = (
         type === 'code' ? SummaryView.OPT_TAB_IDX
       : type === 'deopt' ? SummaryView.DEOPT_TAB_IDX
       : SummaryView.ICS_TAB_IDX
     )
-    this.setState(Object.assign(this.state, { selectedSummaryTabIdx }))
     onmarkerClicked(id)
+    if (markerSummaryTabIdx !== selectedSummaryTabIdx) {
+      onsummaryTabIdxChanged(markerSummaryTabIdx)
+    }
   }
 
   _onsummaryTabHeaderClicked(idx) {
-    this.setState(Object.assign(this.state, { selectedSummaryTabIdx: idx }))
+    const { onsummaryTabIdxChanged } = this.props
+    onsummaryTabIdxChanged(idx)
   }
 }
 
 module.exports = { FileDetailsView }
 
-},{"./code":1,"./summary":4,"react":46}],3:[function(require,module,exports){
+},{"./code":1,"./summary":4,"assert":8,"react":46}],3:[function(require,module,exports){
 'use strict'
 
 const React = require('react')
@@ -402,12 +418,20 @@ class SummaryView extends Component {
     this._renderCode = this._renderCode.bind(this)
   }
 
-  componentDidUpdate() {
+  _maybeScrollIntoView() {
     const { selectedLocation } = this.props
     if (selectedLocation == null) { return }
     const summary = document.getElementById(`summary-location-${selectedLocation}`)
     if (summary == null) { return }
     scrollIntoView(summary, { behavior: 'smooth', scrollMode: 'if-needed' })
+  }
+
+  componentDidMount() {
+    this._maybeScrollIntoView()
+  }
+
+  componentDidUpdate() {
+    this._maybeScrollIntoView()
   }
 
   render() {
@@ -758,11 +782,12 @@ function stateFromUrl() {
   const query = location.search.slice(1)
   const queryState = qs.parse(query)
   const state = {
-      highlightCode        : parseBool(queryState.highlightCode)
-    , includeAllSeverities : parseBool(queryState.includeAllSeverities)
-    , selectedFileIdx      : parseNum(queryState.selectedFileIdx)
-    , selectedLocation     : parseNum(queryState.selectedLocation)
-    , selectedTabIdx       : parseNum(queryState.selectedTabIdx)
+      highlightCode         : parseBool(queryState.highlightCode)
+    , includeAllSeverities  : parseBool(queryState.includeAllSeverities)
+    , selectedFileIdx       : parseNum(queryState.selectedFileIdx)
+    , selectedLocation      : parseNum(queryState.selectedLocation)
+    , selectedTabIdx        : parseNum(queryState.selectedTabIdx)
+    , selectedSummaryTabIdx : parseNum(queryState.selectedSummaryTabIdx)
   }
   return state
 }
@@ -793,16 +818,11 @@ const { urlFromState, stateFromUrl } = require('./lib/query-state')
 
 const { ToolbarView } = require('./components/toolbar')
 const { FilesView } = require('./components/files')
+const { SummaryView } = require('./components/summary')
 const { FileDetailsView } = require('./components/file-details')
 
 const FILES_TAB_IDX = 0
 const DETAILS_TAB_IDX = 1
-
-/*
-function assignIfNotNull(obj, key, val) {
-  if (val != null) obj[key] = val
-}
-*/
 
 function app() {
   // makes React happy
@@ -811,9 +831,11 @@ function app() {
   document.body.appendChild(el)
   return el
 }
+
 const initialState = {
     selectedFile: null
   , selectedLocation: null
+  , selectedSummaryTabIdx: SummaryView.OPT_TAB_IDX
   , includeAllSeverities: false
   , highlightCode: true
   , selectedTabIdx: FILES_TAB_IDX
@@ -835,6 +857,7 @@ class MainView extends Component {
 
   _bind() {
     this._onlocationSelected = this._onlocationSelected.bind(this)
+    this._onsummaryTabIdxChanged = this._onsummaryTabIdxChanged.bind(this)
     this._onincludeAllSeveritiesChanged = this._onincludeAllSeveritiesChanged.bind(this)
     this._onhighlightCodeChanged = this._onhighlightCodeChanged.bind(this)
     this._onfileClicked = this._onfileClicked.bind(this)
@@ -903,7 +926,13 @@ class MainView extends Component {
 
   _renderFileDetails(selected) {
     const { groups } = this.props
-    const { selectedFile, selectedLocation, includeAllSeverities, highlightCode } = this.state
+    const {
+        selectedFile
+      , selectedLocation
+      , selectedSummaryTabIdx
+      , includeAllSeverities
+      , highlightCode
+    } = this.state
     const display = selected ? 'flex' : 'dn'
     const className = `${display} flex-row w-100 ma2`
     if (selectedFile == null || !groups.has(selectedFile)) {
@@ -914,7 +943,7 @@ class MainView extends Component {
 
     return (
       React.createElement( FileDetailsView, {
-        groups: groups, selectedFile: selectedFile, selectedLocation: selectedLocation, includeAllSeverities: includeAllSeverities, highlightCode: highlightCode, className: className, onmarkerClicked: this._onlocationSelected, onsummaryClicked: this._onlocationSelected })
+        groups: groups, selectedFile: selectedFile, selectedLocation: selectedLocation, selectedSummaryTabIdx: selectedSummaryTabIdx, includeAllSeverities: includeAllSeverities, highlightCode: highlightCode, className: className, onmarkerClicked: this._onlocationSelected, onsummaryClicked: this._onlocationSelected, onsummaryTabIdxChanged: this._onsummaryTabIdxChanged })
     )
   }
 
@@ -942,6 +971,7 @@ class MainView extends Component {
       , includeAllSeverities
       , highlightCode
       , selectedTabIdx
+      , selectedSummaryTabIdx
     } = this.state
 
     const state = {
@@ -950,6 +980,7 @@ class MainView extends Component {
       , includeAllSeverities
       , highlightCode
       , selectedTabIdx
+      , selectedSummaryTabIdx
     }
     try {
       history.pushState(state, 'deoptigate', urlFromState(state))
@@ -968,6 +999,7 @@ class MainView extends Component {
       , includeAllSeverities
       , highlightCode
       , selectedTabIdx
+      , selectedSummaryTabIdx
     } = history.state
     if (selectedLocation === '') { selectedLocation = null }
 
@@ -978,6 +1010,7 @@ class MainView extends Component {
       , selectedFile
       , selectedTabIdx
       , selectedLocation
+      , selectedSummaryTabIdx
     }
 
     this.setState(Object.assign(this.state, override))
@@ -992,6 +1025,7 @@ class MainView extends Component {
       , includeAllSeverities
       , highlightCode
       , selectedTabIdx
+      , selectedSummaryTabIdx
     } = state
     const selectedFile = this._fileFromIndex(selectedFileIdx)
     return {
@@ -1000,6 +1034,7 @@ class MainView extends Component {
       , includeAllSeverities
       , highlightCode
       , selectedTabIdx
+      , selectedSummaryTabIdx
     }
   }
 
@@ -1014,6 +1049,10 @@ class MainView extends Component {
     this.setState(Object.assign(this.state, { selectedLocation: id }), this._updateUrl)
   }
 
+  _onsummaryTabIdxChanged(idx) {
+    this.setState(Object.assign(this.state, { selectedSummaryTabIdx: idx }), this._updateUrl)
+  }
+
   _onincludeAllSeveritiesChanged(includeAllSeverities) {
     this.setState(Object.assign(this.state, { includeAllSeverities, selectedLocation: null }), this._updateUrl)
   }
@@ -1026,7 +1065,7 @@ class MainView extends Component {
     this.setState(Object.assign(this.state, {
         selectedFile: file
       , selectedLocation: null
-      // auto open details view when file is sected
+      // auto open details view when file is selected
       , selectedTabIdx: DETAILS_TAB_IDX
     }), this._updateUrl)
   }
@@ -1047,7 +1086,7 @@ async function deoptigateRender(groupedByFile) {
 
 module.exports = deoptigateRender
 
-},{"../":57,"./components/file-details":2,"./components/files":3,"./components/toolbar":5,"./lib/query-state":6,"react":46,"react-dom":26}],8:[function(require,module,exports){
+},{"../":57,"./components/file-details":2,"./components/files":3,"./components/summary":4,"./components/toolbar":5,"./lib/query-state":6,"react":46,"react-dom":26}],8:[function(require,module,exports){
 (function (global){
 'use strict';
 
@@ -31431,14 +31470,22 @@ const severityColors = [
 const MIN_SEVERITY = 1
 function highestSeverity(infos) {
   return infos.reduce(
-      (highest, { severity }) => severity > highest ? severity : highest
+      (highest, ref) => {
+        var severity = ref.severity;
+
+        return severity > highest ? severity : highest;
+  }
     , MIN_SEVERITY
   )
 }
 
 function lowestSeverity(infos) {
   return infos.reduce(
-      (lowest, { severity }) => severity < lowest ? severity : lowest
+      (lowest, ref) => {
+        var severity = ref.severity;
+
+        return severity < lowest ? severity : lowest;
+  }
     , 99
   )
 }

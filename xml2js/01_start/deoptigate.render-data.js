@@ -16,7 +16,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "up",
-              "map": "282063787951",
+              "map": "3a9623b07951",
               "optimizationState": 1,
               "severity": 1
             }
@@ -33,7 +33,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "up",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -50,7 +50,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_workerFunc",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             },
@@ -59,7 +59,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_workerFunc",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -76,7 +76,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_run",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             },
@@ -85,7 +85,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_run",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -102,7 +102,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "enqueue",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             },
@@ -111,7 +111,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "enqueue",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -128,7 +128,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "done",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             },
@@ -137,7 +137,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "done",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -154,7 +154,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "allDone",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             },
@@ -163,7 +163,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "allDone",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -180,7 +180,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_pending",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -197,7 +197,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -214,7 +214,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_pending",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -231,7 +231,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -248,7 +248,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "prototype",
-              "map": "282063782889",
+              "map": "3a9623b02889",
               "optimizationState": 1,
               "severity": 1
             }
@@ -265,7 +265,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "slice",
-              "map": "282063788191",
+              "map": "3a9623b08191",
               "optimizationState": 1,
               "severity": 1
             }
@@ -282,7 +282,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "call",
-              "map": "282063782519",
+              "map": "3a9623b02519",
               "optimizationState": 1,
               "severity": 1
             }
@@ -299,7 +299,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_run",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -316,7 +316,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_active",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -333,7 +333,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_active",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -350,7 +350,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -367,7 +367,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "concurrency",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -384,7 +384,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_pending",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -401,7 +401,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "shift",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -418,7 +418,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_workerFunc",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -435,7 +435,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "apply",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -452,7 +452,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -469,7 +469,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -486,7 +486,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_active",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -503,7 +503,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -520,7 +520,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -537,7 +537,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_running",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -554,7 +554,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_run",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -571,7 +571,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_pending",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -588,7 +588,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -605,7 +605,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "allDone",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -622,7 +622,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "allDone",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -639,7 +639,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 130380,
+              "timestamp": 148220,
               "state": 1,
               "severity": 2
             }
@@ -653,7 +653,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 188573,
+              "timestamp": 230076,
               "state": 1,
               "severity": 2
             }
@@ -667,7 +667,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 188726,
+              "timestamp": 230242,
               "state": 1,
               "severity": 2
             }
@@ -681,7 +681,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 188892,
+              "timestamp": 230422,
               "state": 1,
               "severity": 2
             }
@@ -695,7 +695,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 345987,
+              "timestamp": 394482,
               "state": 1,
               "severity": 2
             }
@@ -722,7 +722,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -739,7 +739,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stream",
-              "map": "2820637d2431",
+              "map": "3a9623b52431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -748,7 +748,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637d2431",
+              "map": "3a9623b52431",
               "optimizationState": 1,
               "severity": 1
             }
@@ -765,7 +765,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "fmt",
-              "map": "2820637d2489",
+              "map": "3a9623b52489",
               "optimizationState": 1,
               "severity": 1
             },
@@ -774,7 +774,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "fmt",
-              "map": "2820637d2489",
+              "map": "3a9623b52489",
               "optimizationState": 1,
               "severity": 1
             }
@@ -791,7 +791,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "curr",
-              "map": "2820637d24e1",
+              "map": "3a9623b524e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -800,7 +800,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637d24e1",
+              "map": "3a9623b524e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -817,7 +817,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "total",
-              "map": "2820637d2539",
+              "map": "3a9623b52539",
               "optimizationState": 1,
               "severity": 1
             },
@@ -826,7 +826,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637d2539",
+              "map": "3a9623b52539",
               "optimizationState": 1,
               "severity": 1
             }
@@ -843,7 +843,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "width",
-              "map": "2820637d2591",
+              "map": "3a9623b52591",
               "optimizationState": 1,
               "severity": 1
             },
@@ -852,7 +852,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "width",
-              "map": "2820637d2591",
+              "map": "3a9623b52591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -869,7 +869,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "clear",
-              "map": "2820637d25e9",
+              "map": "3a9623b525e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -878,7 +878,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "clear",
-              "map": "2820637d25e9",
+              "map": "3a9623b525e9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -895,7 +895,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "complete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -904,7 +904,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "complete",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -913,7 +913,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "complete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -930,7 +930,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "incomplete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -939,7 +939,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "incomplete",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -948,7 +948,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "incomplete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -965,7 +965,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "chars",
-              "map": "2820637d2641",
+              "map": "3a9623b52641",
               "optimizationState": 1,
               "severity": 1
             },
@@ -974,7 +974,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "chars",
-              "map": "2820637d2641",
+              "map": "3a9623b52641",
               "optimizationState": 1,
               "severity": 1
             }
@@ -991,7 +991,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "callback",
-              "map": "2820637d2749",
+              "map": "3a9623b52749",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1000,7 +1000,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "callback",
-              "map": "2820637d2749",
+              "map": "3a9623b52749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1017,7 +1017,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "lastDraw",
-              "map": "2820637d27a1",
+              "map": "3a9623b527a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1026,7 +1026,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lastDraw",
-              "map": "2820637e1319",
+              "map": "3a9623b61319",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1043,7 +1043,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "start",
-              "map": "2820637d27f9",
+              "map": "3a9623b527f9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1052,7 +1052,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "start",
-              "map": "2820637e1371",
+              "map": "3a9623b61371",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1069,7 +1069,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1078,7 +1078,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1095,7 +1095,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1104,7 +1104,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1121,7 +1121,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1130,7 +1130,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1147,7 +1147,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1156,7 +1156,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1173,7 +1173,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1182,7 +1182,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1199,7 +1199,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1208,7 +1208,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1225,7 +1225,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1234,7 +1234,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1251,7 +1251,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1260,7 +1260,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toFixed",
-              "map": "282048602799",
+              "map": "3a965f682799",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1277,7 +1277,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1286,7 +1286,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1303,7 +1303,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1312,7 +1312,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1329,7 +1329,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1338,7 +1338,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "replace",
-              "map": "282048604369",
+              "map": "3a965f684369",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1355,7 +1355,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1364,7 +1364,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1373,7 +1373,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "curr",
-              "map": "2820637e1371",
+              "map": "3a9623b61371",
               "optimizationState": 1,
               "severity": 2
             }
@@ -1390,7 +1390,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1399,7 +1399,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1416,7 +1416,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1425,7 +1425,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1442,7 +1442,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "render",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1451,7 +1451,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "render",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1468,7 +1468,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1477,7 +1477,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1494,7 +1494,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "isTTY",
-              "map": "2820637cd941",
+              "map": "3a9623b4d941",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1511,7 +1511,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1520,7 +1520,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1537,7 +1537,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1546,7 +1546,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "total",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1563,7 +1563,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "min",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1580,7 +1580,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "max",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1597,7 +1597,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "start",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1606,7 +1606,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "start",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1623,7 +1623,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1632,7 +1632,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "total",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1649,7 +1649,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1658,7 +1658,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1675,7 +1675,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "fmt",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1684,7 +1684,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "fmt",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1701,7 +1701,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1710,7 +1710,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1727,7 +1727,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1736,7 +1736,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "total",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1753,7 +1753,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "max",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1770,7 +1770,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1779,7 +1779,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1796,7 +1796,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "columns",
-              "map": "2820637cd941",
+              "map": "3a9623b4d941",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1813,7 +1813,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "min",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1830,7 +1830,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "width",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1839,7 +1839,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "width",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1856,7 +1856,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "round",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1873,7 +1873,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "join",
-              "map": "282063782991",
+              "map": "3a9623b02991",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1890,7 +1890,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "chars",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1899,7 +1899,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "chars",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1916,7 +1916,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "complete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1933,7 +1933,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "join",
-              "map": "282063782991",
+              "map": "3a9623b02991",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1950,7 +1950,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "chars",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -1959,7 +1959,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "chars",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1976,7 +1976,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "incomplete",
-              "map": "2820637d26f1",
+              "map": "3a9623b526f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -1993,7 +1993,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lastDraw",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2002,7 +2002,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "lastDraw",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2019,7 +2019,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2028,7 +2028,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2045,7 +2045,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "clearLine",
-              "map": "2820637cd941",
+              "map": "3a9623b4d941",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2062,7 +2062,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2071,7 +2071,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2088,7 +2088,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "cursorTo",
-              "map": "2820637cd941",
+              "map": "3a9623b4d941",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2105,7 +2105,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2114,7 +2114,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2131,7 +2131,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "write",
-              "map": "2820637cd941",
+              "map": "3a9623b4d941",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2148,7 +2148,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lastDraw",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2157,7 +2157,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "lastDraw",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2174,7 +2174,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2183,7 +2183,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "curr",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2200,7 +2200,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2209,7 +2209,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "total",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2226,7 +2226,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stream",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2243,7 +2243,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stderr",
-              "map": "2820637cfbf9",
+              "map": "3a9623b4fbf9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2260,7 +2260,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2277,7 +2277,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2294,7 +2294,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "width",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2311,7 +2311,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "clear",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2328,7 +2328,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "callback",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2345,7 +2345,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "complete",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2354,7 +2354,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "complete",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2371,7 +2371,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "terminate",
-              "map": "2820637e1421",
+              "map": "3a9623b61421",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2388,7 +2388,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "clear",
-              "map": "2820637e1421",
+              "map": "3a9623b61421",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2405,7 +2405,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "log",
-              "map": "2820637ced89",
+              "map": "3a9623b4ed89",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2422,7 +2422,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "callback",
-              "map": "2820637e1421",
+              "map": "3a9623b61421",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2439,7 +2439,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 132742,
+              "timestamp": 151666,
               "state": 1,
               "severity": 2
             }
@@ -2453,7 +2453,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 145095,
+              "timestamp": 161809,
               "state": 1,
               "severity": 2
             }
@@ -2467,7 +2467,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 346656,
+              "timestamp": 395155,
               "state": 1,
               "severity": 2
             }
@@ -2481,7 +2481,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 346859,
+              "timestamp": 395363,
               "state": 1,
               "severity": 2
             }
@@ -2495,7 +2495,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 1060501,
+              "timestamp": 1145678,
               "state": 1,
               "severity": 2
             }
@@ -2509,7 +2509,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 1060890,
+              "timestamp": 1146211,
               "state": 1,
               "severity": 2
             }
@@ -2536,7 +2536,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "concurrency",
-              "map": "2820637d13b1",
+              "map": "3a9623b513b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2553,7 +2553,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "number",
-              "map": "2820637d13b1",
+              "map": "3a9623b513b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2570,7 +2570,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "join",
-              "map": "2820637b5581",
+              "map": "3a9623b35581",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2587,7 +2587,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "file",
-              "map": "2820637d1409",
+              "map": "3a9623b51409",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2596,7 +2596,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "file",
-              "map": "2820637e6a69",
+              "map": "3a9623b66a69",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2613,7 +2613,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "pop",
-              "map": "282063782af1",
+              "map": "3a9623b02af1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2630,7 +2630,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "assign",
-              "map": "282063782361",
+              "map": "3a9623b02361",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2647,7 +2647,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 124554,
+              "timestamp": 137290,
               "state": 1,
               "severity": 2
             }
@@ -2661,7 +2661,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 133045,
+              "timestamp": 151912,
               "state": 1,
               "severity": 2
             }
@@ -2675,7 +2675,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 133861,
+              "timestamp": 152554,
               "state": 1,
               "severity": 2
             }
@@ -2702,7 +2702,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parser",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2711,7 +2711,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parser",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2728,7 +2728,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "streaming",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2737,7 +2737,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "streaming",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2746,7 +2746,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "streaming",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2763,7 +2763,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "concurrency",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2772,7 +2772,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "concurrency",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2789,7 +2789,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "number",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2798,7 +2798,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "number",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2815,7 +2815,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "gc",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2824,7 +2824,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "gc",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2833,7 +2833,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "gc",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2850,7 +2850,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "file",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2859,7 +2859,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "file",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2876,7 +2876,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "resultsFile",
-              "map": "2820637d1931",
+              "map": "3a9623b51931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2885,7 +2885,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "settings",
-              "map": "2820637d16c9",
+              "map": "3a9623b516c9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2894,7 +2894,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultsFile",
-              "map": "2820637e2659",
+              "map": "3a9623b62659",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2903,7 +2903,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "settings",
-              "map": "2820637e6ac1",
+              "map": "3a9623b66ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2920,7 +2920,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "total",
-              "map": "2820637d23d9",
+              "map": "3a9623b523d9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2929,7 +2929,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "total",
-              "map": "2820637e12c1",
+              "map": "3a9623b612c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2946,7 +2946,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xml2js",
-              "map": "2820637e1d69",
+              "map": "3a9623b61d69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2955,7 +2955,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xml2js",
-              "map": "2820637e1d69",
+              "map": "3a9623b61d69",
               "optimizationState": 1,
               "severity": 1
             }
@@ -2972,7 +2972,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "start",
-              "map": "2820637e2811",
+              "map": "3a9623b62811",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2981,7 +2981,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "hrtime",
-              "map": "2820637cfbf9",
+              "map": "3a9623b4fbf9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -2990,7 +2990,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "start",
-              "map": "2820637e2811",
+              "map": "3a9623b62811",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3007,7 +3007,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "enqueue",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3024,7 +3024,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "createReadStream",
-              "map": "2820637be849",
+              "map": "3a9623b3e849",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3041,7 +3041,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "streaming",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3058,7 +3058,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "to_s",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3075,7 +3075,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "gc",
-              "map": "282063787951",
+              "map": "3a9623b07951",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3092,7 +3092,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "time",
-              "map": "2820637e6b71",
+              "map": "3a9623b66b71",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3101,7 +3101,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "hrtime",
-              "map": "2820637cfbf9",
+              "map": "3a9623b4fbf9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3110,7 +3110,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "time",
-              "map": "2820637e6b71",
+              "map": "3a9623b66b71",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3127,7 +3127,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "mem",
-              "map": "2820637e6b71",
+              "map": "3a9623b66b71",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3136,7 +3136,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "memoryUsage",
-              "map": "2820637cfbf9",
+              "map": "3a9623b4fbf9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3145,7 +3145,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "mem",
-              "map": "2820637e6b71",
+              "map": "3a9623b66b71",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3162,7 +3162,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "hrtime",
-              "map": "2820637cfbf9",
+              "map": "3a9623b4fbf9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3179,7 +3179,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "end",
-              "map": "2820637e2811",
+              "map": "3a9623b62811",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3196,7 +3196,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3205,7 +3205,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "push",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 2
             }
@@ -3222,7 +3222,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3231,7 +3231,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "push",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 2
             }
@@ -3248,7 +3248,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "done",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3265,7 +3265,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tick",
-              "map": "2820637e6d29",
+              "map": "3a9623b66d29",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3274,7 +3274,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tick",
-              "map": "2820637e1371",
+              "map": "3a9623b61371",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3283,7 +3283,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "tick",
-              "map": "2820637e13c9",
+              "map": "3a9623b613c9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -3300,7 +3300,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "options",
-              "map": "2820637e69b9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3309,7 +3309,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7cf9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3326,7 +3326,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "times",
-              "map": "2820637e69b9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3335,7 +3335,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "times",
-              "map": "2820637e7cf9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3352,7 +3352,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "memories",
-              "map": "2820637e69b9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -3361,7 +3361,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "memories",
-              "map": "2820637e7cf9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3378,7 +3378,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parser",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3395,7 +3395,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "concurrency",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3412,7 +3412,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "number",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3429,7 +3429,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "file",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3446,7 +3446,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultsFile",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3463,7 +3463,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "error",
-              "map": "2820637ced89",
+              "map": "3a9623b4ed89",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3480,7 +3480,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "inspect",
-              "map": "2820637b2b39",
+              "map": "3a9623b32b39",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3497,7 +3497,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "streaming",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3514,7 +3514,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "up",
-              "map": "2820637d0ee1",
+              "map": "3a9623b50ee1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3531,7 +3531,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "concurrency",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3548,7 +3548,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "allDone",
-              "map": "2820637e2081",
+              "map": "3a9623b62081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3565,7 +3565,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultsFile",
-              "map": "2820637d1671",
+              "map": "3a9623b51671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3582,7 +3582,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "error",
-              "map": "2820637ced89",
+              "map": "3a9623b4ed89",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3599,7 +3599,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 126653,
+              "timestamp": 140120,
               "state": 1,
               "severity": 2
             }
@@ -3613,7 +3613,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 134184,
+              "timestamp": 152796,
               "state": 1,
               "severity": 2
             }
@@ -3627,7 +3627,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 134533,
+              "timestamp": 153065,
               "state": 1,
               "severity": 2
             }
@@ -3641,7 +3641,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 189042,
+              "timestamp": 230576,
               "state": 1,
               "severity": 2
             }
@@ -3655,7 +3655,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 345526,
+              "timestamp": 393961,
               "state": 1,
               "severity": 2
             }
@@ -3669,7 +3669,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 345625,
+              "timestamp": 394072,
               "state": 1,
               "severity": 2
             }
@@ -3683,7 +3683,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 1056964,
+              "timestamp": 1141219,
               "state": 1,
               "severity": 2
             }
@@ -3710,7 +3710,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "defaults",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3727,7 +3727,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 148564,
+              "timestamp": 168023,
               "state": 1,
               "severity": 2
             }
@@ -3754,7 +3754,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "assign",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3771,7 +3771,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isFunction",
-              "map": "2820637d4f81",
+              "map": "3a9623b54f81",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3788,7 +3788,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isObject",
-              "map": "2820637d4fd9",
+              "map": "3a9623b54fd9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3805,7 +3805,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isArray",
-              "map": "2820637d5031",
+              "map": "3a9623b55031",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3822,7 +3822,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isEmpty",
-              "map": "2820637d5089",
+              "map": "3a9623b55089",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3839,7 +3839,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isPlainObject",
-              "map": "2820637d50e1",
+              "map": "3a9623b550e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3856,7 +3856,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 151308,
+              "timestamp": 173017,
               "state": 1,
               "severity": 2
             }
@@ -3883,7 +3883,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3900,7 +3900,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "next",
-              "map": "2820637d5191",
+              "map": "3a9623b55191",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3917,7 +3917,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 153613,
+              "timestamp": 175843,
               "state": 1,
               "severity": 2
             }
@@ -3944,7 +3944,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -3961,7 +3961,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 154496,
+              "timestamp": 176984,
               "state": 1,
               "severity": 2
             }
@@ -3988,7 +3988,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4005,7 +4005,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5241",
+              "map": "3a9623b55241",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4022,7 +4022,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4039,7 +4039,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "__super__",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4056,7 +4056,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 157959,
+              "timestamp": 180986,
               "state": 1,
               "severity": 2
             }
@@ -4070,7 +4070,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 158199,
+              "timestamp": 181240,
               "state": 1,
               "severity": 2
             }
@@ -4084,7 +4084,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 158519,
+              "timestamp": 181570,
               "state": 1,
               "severity": 2
             }
@@ -4111,7 +4111,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4128,7 +4128,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d53f9",
+              "map": "3a9623b553f9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4145,7 +4145,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4162,7 +4162,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 159684,
+              "timestamp": 183406,
               "state": 1,
               "severity": 2
             }
@@ -4176,7 +4176,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 159879,
+              "timestamp": 183613,
               "state": 1,
               "severity": 2
             }
@@ -4190,7 +4190,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 159948,
+              "timestamp": 183686,
               "state": 1,
               "severity": 2
             }
@@ -4217,7 +4217,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4234,7 +4234,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5559",
+              "map": "3a9623b55559",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4251,7 +4251,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4268,7 +4268,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 160365,
+              "timestamp": 184228,
               "state": 1,
               "severity": 2
             }
@@ -4282,7 +4282,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 160574,
+              "timestamp": 184437,
               "state": 1,
               "severity": 2
             }
@@ -4296,7 +4296,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 160642,
+              "timestamp": 184508,
               "state": 1,
               "severity": 2
             }
@@ -4323,7 +4323,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4340,7 +4340,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d56b9",
+              "map": "3a9623b556b9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4357,7 +4357,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4374,7 +4374,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 161015,
+              "timestamp": 185111,
               "state": 1,
               "severity": 2
             }
@@ -4388,7 +4388,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 161212,
+              "timestamp": 185388,
               "state": 1,
               "severity": 2
             }
@@ -4402,7 +4402,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 161289,
+              "timestamp": 185471,
               "state": 1,
               "severity": 2
             }
@@ -4429,7 +4429,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4446,7 +4446,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5819",
+              "map": "3a9623b55819",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4463,7 +4463,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4480,7 +4480,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 161678,
+              "timestamp": 186168,
               "state": 1,
               "severity": 2
             }
@@ -4494,7 +4494,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 161918,
+              "timestamp": 186370,
               "state": 1,
               "severity": 2
             }
@@ -4508,7 +4508,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 161997,
+              "timestamp": 186440,
               "state": 1,
               "severity": 2
             }
@@ -4535,7 +4535,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4552,7 +4552,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5979",
+              "map": "3a9623b55979",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4569,7 +4569,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4586,7 +4586,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 159069,
+              "timestamp": 182581,
               "state": 1,
               "severity": 2
             }
@@ -4600,7 +4600,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 162144,
+              "timestamp": 186565,
               "state": 1,
               "severity": 2
             }
@@ -4614,7 +4614,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 162212,
+              "timestamp": 186632,
               "state": 1,
               "severity": 2
             }
@@ -4641,7 +4641,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4658,7 +4658,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5ad9",
+              "map": "3a9623b55ad9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4675,7 +4675,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4692,7 +4692,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 162687,
+              "timestamp": 187320,
               "state": 1,
               "severity": 2
             }
@@ -4706,7 +4706,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 162896,
+              "timestamp": 187549,
               "state": 1,
               "severity": 2
             }
@@ -4720,7 +4720,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 162965,
+              "timestamp": 187633,
               "state": 1,
               "severity": 2
             }
@@ -4747,7 +4747,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4764,7 +4764,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5c39",
+              "map": "3a9623b55c39",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4781,7 +4781,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4798,7 +4798,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 163402,
+              "timestamp": 188272,
               "state": 1,
               "severity": 2
             }
@@ -4812,7 +4812,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 163595,
+              "timestamp": 188467,
               "state": 1,
               "severity": 2
             }
@@ -4826,7 +4826,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 163664,
+              "timestamp": 188536,
               "state": 1,
               "severity": 2
             }
@@ -4853,7 +4853,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4870,7 +4870,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 164704,
+              "timestamp": 189860,
               "state": 1,
               "severity": 2
             }
@@ -4897,7 +4897,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4914,7 +4914,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5df1",
+              "map": "3a9623b55df1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4931,7 +4931,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -4948,7 +4948,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 164212,
+              "timestamp": 189142,
               "state": 1,
               "severity": 2
             }
@@ -4962,7 +4962,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 164943,
+              "timestamp": 190141,
               "state": 1,
               "severity": 2
             }
@@ -4976,7 +4976,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 165022,
+              "timestamp": 190218,
               "state": 1,
               "severity": 2
             }
@@ -5003,7 +5003,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5020,7 +5020,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d5f51",
+              "map": "3a9623b55f51",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5037,7 +5037,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5054,7 +5054,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 165457,
+              "timestamp": 191095,
               "state": 1,
               "severity": 2
             }
@@ -5068,7 +5068,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 165646,
+              "timestamp": 191378,
               "state": 1,
               "severity": 2
             }
@@ -5082,7 +5082,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 165713,
+              "timestamp": 191473,
               "state": 1,
               "severity": 2
             }
@@ -5109,7 +5109,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5126,7 +5126,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d60b1",
+              "map": "3a9623b560b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5143,7 +5143,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5160,7 +5160,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 166105,
+              "timestamp": 192367,
               "state": 1,
               "severity": 2
             }
@@ -5174,7 +5174,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 166292,
+              "timestamp": 192568,
               "state": 1,
               "severity": 2
             }
@@ -5188,7 +5188,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 166359,
+              "timestamp": 192638,
               "state": 1,
               "severity": 2
             }
@@ -5215,7 +5215,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5232,7 +5232,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d6211",
+              "map": "3a9623b56211",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5249,7 +5249,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5266,7 +5266,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 166732,
+              "timestamp": 193540,
               "state": 1,
               "severity": 2
             }
@@ -5280,7 +5280,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 166952,
+              "timestamp": 193786,
               "state": 1,
               "severity": 2
             }
@@ -5294,7 +5294,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 167019,
+              "timestamp": 193868,
               "state": 1,
               "severity": 2
             }
@@ -5321,7 +5321,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5338,7 +5338,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 167513,
+              "timestamp": 194932,
               "state": 1,
               "severity": 2
             }
@@ -5365,7 +5365,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5382,7 +5382,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d63c9",
+              "map": "3a9623b563c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5399,7 +5399,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5416,7 +5416,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 157453,
+              "timestamp": 180140,
               "state": 1,
               "severity": 2
             }
@@ -5430,7 +5430,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 167711,
+              "timestamp": 195213,
               "state": 1,
               "severity": 2
             }
@@ -5444,7 +5444,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 167782,
+              "timestamp": 195287,
               "state": 1,
               "severity": 2
             }
@@ -5471,7 +5471,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5488,7 +5488,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d6529",
+              "map": "3a9623b56529",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5505,7 +5505,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5522,7 +5522,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 152071,
+              "timestamp": 173837,
               "state": 1,
               "severity": 2
             }
@@ -5536,7 +5536,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 167904,
+              "timestamp": 195420,
               "state": 1,
               "severity": 2
             }
@@ -5550,7 +5550,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 167969,
+              "timestamp": 195494,
               "state": 1,
               "severity": 2
             }
@@ -5577,7 +5577,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5594,7 +5594,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 168855,
+              "timestamp": 196945,
               "state": 1,
               "severity": 2
             }
@@ -5621,7 +5621,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5638,7 +5638,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d66e1",
+              "map": "3a9623b566e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5655,7 +5655,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5672,7 +5672,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 170306,
+              "timestamp": 199031,
               "state": 1,
               "severity": 2
             }
@@ -5686,7 +5686,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 170679,
+              "timestamp": 199608,
               "state": 1,
               "severity": 2
             }
@@ -5700,7 +5700,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 170747,
+              "timestamp": 199698,
               "state": 1,
               "severity": 2
             }
@@ -5727,7 +5727,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "create",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5744,7 +5744,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "begin",
-              "map": "2820637d6841",
+              "map": "3a9623b56841",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5761,7 +5761,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stringWriter",
-              "map": "2820637d6899",
+              "map": "3a9623b56899",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5778,7 +5778,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "streamWriter",
-              "map": "2820637d68f1",
+              "map": "3a9623b568f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5795,7 +5795,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 150667,
+              "timestamp": 172247,
               "state": 1,
               "severity": 2
             }
@@ -5822,7 +5822,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5839,7 +5839,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Builder",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5856,7 +5856,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 149407,
+              "timestamp": 169015,
               "state": 1,
               "severity": 2
             }
@@ -5883,7 +5883,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SAXParser",
-              "map": "2820637d1461",
+              "map": "3a9623b51461",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5900,7 +5900,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SAXStream",
-              "map": "2820637d6f21",
+              "map": "3a9623b56f21",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5917,7 +5917,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "createStream",
-              "map": "2820637d6f79",
+              "map": "3a9623b56f79",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5934,7 +5934,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "MAX_BUFFER_LENGTH",
-              "map": "2820637d6fd1",
+              "map": "3a9623b56fd1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5951,7 +5951,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "EVENTS",
-              "map": "2820637d7029",
+              "map": "3a9623b57029",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5968,7 +5968,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "end",
-              "map": "2820637d7239",
+              "map": "3a9623b57239",
               "optimizationState": 1,
               "severity": 1
             }
@@ -5985,7 +5985,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "write",
-              "map": "2820637d7239",
+              "map": "3a9623b57239",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6002,7 +6002,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "resume",
-              "map": "2820637d7239",
+              "map": "3a9623b57239",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6019,7 +6019,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "close",
-              "map": "2820637d7239",
+              "map": "3a9623b57239",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6036,7 +6036,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "flush",
-              "map": "2820637d7239",
+              "map": "3a9623b57239",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6053,7 +6053,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6070,7 +6070,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d7341",
+              "map": "3a9623b57341",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6087,7 +6087,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6104,7 +6104,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xml",
-              "map": "2820637d7551",
+              "map": "3a9623b57551",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6121,7 +6121,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xmlns",
-              "map": "2820637d7551",
+              "map": "3a9623b57551",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6138,7 +6138,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "BEGIN",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6155,7 +6155,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "BEGIN_WHITESPACE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6172,7 +6172,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6189,7 +6189,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "TEXT_ENTITY",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6206,7 +6206,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "OPEN_WAKA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6223,7 +6223,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SGML_DECL",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6240,7 +6240,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SGML_DECL_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6257,7 +6257,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DOCTYPE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6274,7 +6274,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DOCTYPE_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6291,7 +6291,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DOCTYPE_DTD",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6308,7 +6308,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DOCTYPE_DTD_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6325,7 +6325,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "COMMENT_STARTING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6342,7 +6342,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "COMMENT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6359,7 +6359,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "COMMENT_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6376,7 +6376,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "COMMENT_ENDED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6393,7 +6393,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "CDATA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6410,7 +6410,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "CDATA_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6427,7 +6427,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "CDATA_ENDING_2",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6444,7 +6444,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "PROC_INST",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6461,7 +6461,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "PROC_INST_BODY",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6478,7 +6478,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "PROC_INST_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6495,7 +6495,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "OPEN_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6512,7 +6512,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "OPEN_TAG_SLASH",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6529,7 +6529,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6546,7 +6546,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_NAME",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6563,7 +6563,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_NAME_SAW_WHITE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6580,7 +6580,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6597,7 +6597,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6614,7 +6614,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE_CLOSED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6631,7 +6631,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE_UNQUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6648,7 +6648,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE_ENTITY_Q",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6665,7 +6665,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ATTRIB_VALUE_ENTITY_U",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6682,7 +6682,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "CLOSE_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6699,7 +6699,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "CLOSE_TAG_SAW_WHITE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6716,7 +6716,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SCRIPT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6733,7 +6733,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SCRIPT_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6750,7 +6750,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "STATE",
-              "map": "2820637d7081",
+              "map": "3a9623b57081",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6767,7 +6767,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "XML_ENTITIES",
-              "map": "2820637d8209",
+              "map": "3a9623b58209",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6784,7 +6784,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ENTITIES",
-              "map": "2820637d8419",
+              "map": "3a9623b58419",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6801,7 +6801,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "amp",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6810,7 +6810,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "gt",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6819,7 +6819,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "lt",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 3
             }
@@ -6836,7 +6836,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "amp",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6845,7 +6845,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "gt",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6854,7 +6854,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "lt",
-              "map": "2820637d8471",
+              "map": "3a9623b58471",
               "optimizationState": 1,
               "severity": 3
             }
@@ -6871,7 +6871,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ENTITIES",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6888,7 +6888,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ENTITIES",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6905,7 +6905,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "fromCharCode",
-              "map": "282063783f39",
+              "map": "3a9623b03f39",
               "optimizationState": 1,
               "severity": 1
             }
@@ -6922,7 +6922,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "BEGIN",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6931,7 +6931,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN_WHITESPACE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6940,7 +6940,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -6957,7 +6957,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "0",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -6966,7 +6966,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "17",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -6983,7 +6983,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "STATE",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7000,7 +7000,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "STATE",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7017,7 +7017,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "0",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7034,7 +7034,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "comment",
-              "map": "2820637e3891",
+              "map": "3a9623b63891",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7043,7 +7043,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sgmlDecl",
-              "map": "2820637e38e9",
+              "map": "3a9623b638e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7052,7 +7052,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "textNode",
-              "map": "2820637e3999",
+              "map": "3a9623b63999",
               "optimizationState": 1,
               "severity": 3
             }
@@ -7069,7 +7069,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "c",
-              "map": "2820637e3d09",
+              "map": "3a9623b63d09",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7078,7 +7078,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "c",
-              "map": "2820637e3d09",
+              "map": "3a9623b63d09",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7087,7 +7087,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "c",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7104,7 +7104,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "q",
-              "map": "2820637e3d61",
+              "map": "3a9623b63d61",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7113,7 +7113,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "q",
-              "map": "2820637e3d61",
+              "map": "3a9623b63d61",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7122,7 +7122,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "q",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7139,7 +7139,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "bufferCheckPosition",
-              "map": "2820637e3db9",
+              "map": "3a9623b63db9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7148,7 +7148,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "bufferCheckPosition",
-              "map": "2820637e3db9",
+              "map": "3a9623b63db9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7157,7 +7157,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "bufferCheckPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7174,7 +7174,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "opt",
-              "map": "2820637e3e11",
+              "map": "3a9623b63e11",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7183,7 +7183,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e3e11",
+              "map": "3a9623b63e11",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7192,7 +7192,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7209,7 +7209,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "lowercase",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7218,7 +7218,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lowercase",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7227,7 +7227,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "lowercase",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7244,7 +7244,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "looseCase",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7253,7 +7253,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "looseCase",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7262,7 +7262,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "looseCase",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7279,7 +7279,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "tags",
-              "map": "2820637e3f19",
+              "map": "3a9623b63f19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7288,7 +7288,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e3f19",
+              "map": "3a9623b63f19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7297,7 +7297,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7314,7 +7314,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "sawRoot",
-              "map": "2820637e3f71",
+              "map": "3a9623b63f71",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7323,7 +7323,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e3f71",
+              "map": "3a9623b63f71",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7332,7 +7332,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "sawRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7349,7 +7349,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "closedRoot",
-              "map": "2820637e3fc9",
+              "map": "3a9623b63fc9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7358,7 +7358,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e3fc9",
+              "map": "3a9623b63fc9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7367,7 +7367,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "closedRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7384,7 +7384,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "closed",
-              "map": "2820637e4021",
+              "map": "3a9623b64021",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7393,7 +7393,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closed",
-              "map": "2820637e4021",
+              "map": "3a9623b64021",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7402,7 +7402,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "closed",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7419,7 +7419,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "error",
-              "map": "2820637e4079",
+              "map": "3a9623b64079",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7428,7 +7428,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "error",
-              "map": "2820637e4079",
+              "map": "3a9623b64079",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7437,7 +7437,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "error",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7454,7 +7454,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "tag",
-              "map": "2820637e40d1",
+              "map": "3a9623b640d1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7463,7 +7463,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e40d1",
+              "map": "3a9623b640d1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7472,7 +7472,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7489,7 +7489,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "strict",
-              "map": "2820637e4129",
+              "map": "3a9623b64129",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7498,7 +7498,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e4129",
+              "map": "3a9623b64129",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7507,7 +7507,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "strict",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7524,7 +7524,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "noscript",
-              "map": "2820637e4181",
+              "map": "3a9623b64181",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7533,7 +7533,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "noscript",
-              "map": "2820637e4181",
+              "map": "3a9623b64181",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7542,7 +7542,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "noscript",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7559,7 +7559,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "state",
-              "map": "2820637e41d9",
+              "map": "3a9623b641d9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7568,7 +7568,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e41d9",
+              "map": "3a9623b641d9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7577,7 +7577,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7594,7 +7594,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "strictEntities",
-              "map": "2820637e4231",
+              "map": "3a9623b64231",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7603,7 +7603,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strictEntities",
-              "map": "2820637e4231",
+              "map": "3a9623b64231",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7612,7 +7612,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "strictEntities",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7629,7 +7629,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ENTITIES",
-              "map": "2820637e4289",
+              "map": "3a9623b64289",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7638,7 +7638,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ENTITIES",
-              "map": "2820637e4289",
+              "map": "3a9623b64289",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7647,7 +7647,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "ENTITIES",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7664,7 +7664,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "attribList",
-              "map": "2820637e4391",
+              "map": "3a9623b64391",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7673,7 +7673,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e4391",
+              "map": "3a9623b64391",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7682,7 +7682,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "attribList",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7699,7 +7699,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "trackPosition",
-              "map": "2820637e43e9",
+              "map": "3a9623b643e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7708,7 +7708,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e43e9",
+              "map": "3a9623b643e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7717,7 +7717,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "trackPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7734,7 +7734,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "column",
-              "map": "2820637e4441",
+              "map": "3a9623b64441",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7743,7 +7743,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4441",
+              "map": "3a9623b64441",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7752,7 +7752,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7769,7 +7769,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "line",
-              "map": "2820637e4499",
+              "map": "3a9623b64499",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7778,7 +7778,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "line",
-              "map": "2820637e4499",
+              "map": "3a9623b64499",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7787,7 +7787,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "line",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7804,7 +7804,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "position",
-              "map": "2820637e44f1",
+              "map": "3a9623b644f1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7813,7 +7813,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e44f1",
+              "map": "3a9623b644f1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7822,7 +7822,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7839,7 +7839,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "onready",
-              "map": "2820637e4549",
+              "map": "3a9623b64549",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7848,7 +7848,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onprocessinginstruction",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7857,7 +7857,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "ontext",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 3
             }
@@ -7874,7 +7874,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7883,7 +7883,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7900,7 +7900,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "charAt",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7909,7 +7909,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "charAt",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7926,7 +7926,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "startTagPosition",
-              "map": "2820637e4911",
+              "map": "3a9623b64911",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7935,7 +7935,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "startTagPosition",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -7952,7 +7952,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "c",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7961,7 +7961,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "c",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7970,7 +7970,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "c",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -7987,7 +7987,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -7996,7 +7996,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8005,7 +8005,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "trackPosition",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8022,7 +8022,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8031,7 +8031,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8040,7 +8040,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "position",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8057,7 +8057,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8066,7 +8066,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8075,7 +8075,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "position",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8092,7 +8092,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8101,7 +8101,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "column",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8110,7 +8110,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8127,7 +8127,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8136,7 +8136,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "column",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8145,7 +8145,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8162,7 +8162,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8171,7 +8171,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8180,7 +8180,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "state",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -8197,7 +8197,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8214,7 +8214,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN_WHITESPACE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8231,7 +8231,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8248,7 +8248,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "SCRIPT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8265,7 +8265,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "SCRIPT_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8282,7 +8282,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_WAKA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8299,7 +8299,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "SGML_DECL",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8316,7 +8316,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "SGML_DECL_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8333,7 +8333,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "DOCTYPE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8350,7 +8350,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "DOCTYPE_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8367,7 +8367,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "DOCTYPE_DTD",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8384,7 +8384,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "DOCTYPE_DTD_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8401,7 +8401,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "COMMENT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8418,7 +8418,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "COMMENT_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8435,7 +8435,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "COMMENT_ENDED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8452,7 +8452,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "CDATA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8469,7 +8469,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "CDATA_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8486,7 +8486,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "CDATA_ENDING_2",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8503,7 +8503,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8520,7 +8520,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8529,7 +8529,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8546,7 +8546,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8555,7 +8555,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8572,7 +8572,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST_BODY",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8589,7 +8589,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8598,7 +8598,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8615,7 +8615,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8624,7 +8624,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8641,7 +8641,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8650,7 +8650,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8667,7 +8667,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "name",
-              "map": "2820637e4ac9",
+              "map": "3a9623b64ac9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8676,7 +8676,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8685,7 +8685,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e4ac9",
+              "map": "3a9623b64ac9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8702,7 +8702,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "body",
-              "map": "2820637e4ac9",
+              "map": "3a9623b64ac9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8711,7 +8711,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8720,7 +8720,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "body",
-              "map": "2820637e4ac9",
+              "map": "3a9623b64ac9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8737,7 +8737,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8746,7 +8746,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8763,7 +8763,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "test",
-              "map": "282063783909",
+              "map": "3a9623b03909",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8780,7 +8780,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8797,7 +8797,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8814,7 +8814,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8823,7 +8823,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8840,7 +8840,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8849,7 +8849,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8866,7 +8866,7 @@
               "oldState": 0,
               "newState": 5,
               "key": "-1",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -8883,7 +8883,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8892,7 +8892,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8909,7 +8909,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8918,7 +8918,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8935,7 +8935,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ontext",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8944,7 +8944,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onopentag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -8953,7 +8953,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "ontext",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 3
             }
@@ -8970,7 +8970,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_TAG_SLASH",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -8987,7 +8987,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9004,7 +9004,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_NAME",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9021,7 +9021,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9030,7 +9030,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9047,7 +9047,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9056,7 +9056,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9073,7 +9073,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_NAME_SAW_WHITE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9090,7 +9090,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9107,7 +9107,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9124,7 +9124,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "q",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9133,7 +9133,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "q",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9150,7 +9150,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9159,7 +9159,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9176,7 +9176,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9185,7 +9185,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9202,7 +9202,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xmlns:SOAP-ENV",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9211,7 +9211,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns:ns1",
-              "map": "2820637e4b79",
+              "map": "3a9623b64b79",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9220,7 +9220,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "xmlns:os",
-              "map": "2820637e4c29",
+              "map": "3a9623b64c29",
               "optimizationState": 1,
               "severity": 3
             }
@@ -9237,7 +9237,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "value",
-              "map": "2820637e4bd1",
+              "map": "3a9623b64bd1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9246,7 +9246,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9255,7 +9255,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "value",
-              "map": "2820637e4bd1",
+              "map": "3a9623b64bd1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9264,7 +9264,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9281,7 +9281,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9290,7 +9290,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9307,7 +9307,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9316,7 +9316,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9333,7 +9333,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_NAME",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9350,7 +9350,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9359,7 +9359,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9376,7 +9376,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9393,7 +9393,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9402,7 +9402,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9419,7 +9419,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "q",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9428,7 +9428,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "q",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9445,7 +9445,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE_QUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9462,7 +9462,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9471,7 +9471,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9488,7 +9488,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9497,7 +9497,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9514,7 +9514,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9523,7 +9523,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9540,7 +9540,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "indexOf",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9557,7 +9557,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9566,7 +9566,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9583,7 +9583,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9592,7 +9592,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9609,7 +9609,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attributes",
-              "map": "2820637e4b21",
+              "map": "3a9623b64b21",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9626,7 +9626,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "hasOwnProperty",
-              "map": "2820637e4b79",
+              "map": "3a9623b64b79",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9635,7 +9635,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "hasOwnProperty",
-              "map": "2820637e4c29",
+              "map": "3a9623b64c29",
               "optimizationState": 1,
               "severity": 2
             },
@@ -9644,7 +9644,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "hasOwnProperty",
-              "map": "2820637e4d31",
+              "map": "3a9623b64d31",
               "optimizationState": 1,
               "severity": 3
             }
@@ -9661,7 +9661,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9670,7 +9670,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9687,7 +9687,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9696,7 +9696,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9713,7 +9713,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9730,7 +9730,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9739,7 +9739,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9756,7 +9756,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attributes",
-              "map": "2820637e4b21",
+              "map": "3a9623b64b21",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9773,7 +9773,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9782,7 +9782,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9799,7 +9799,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9808,7 +9808,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9825,7 +9825,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9834,7 +9834,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e4bd1",
+              "map": "3a9623b64bd1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9843,7 +9843,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9860,7 +9860,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9869,7 +9869,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9886,7 +9886,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9895,7 +9895,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9912,7 +9912,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "q",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9921,7 +9921,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "q",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9938,7 +9938,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE_CLOSED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9955,7 +9955,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -9964,7 +9964,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9981,7 +9981,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE_CLOSED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -9998,7 +9998,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10015,7 +10015,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10024,7 +10024,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10041,7 +10041,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isSelfClosing",
-              "map": "2820637e4b21",
+              "map": "3a9623b64b21",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10050,7 +10050,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "isSelfClosing",
-              "map": "2820637e4b21",
+              "map": "3a9623b64b21",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10067,7 +10067,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10076,7 +10076,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10093,7 +10093,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "line",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10102,7 +10102,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "line",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10119,7 +10119,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "line",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10128,7 +10128,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "line",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10145,7 +10145,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10154,7 +10154,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10171,7 +10171,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10180,7 +10180,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10197,7 +10197,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10206,7 +10206,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10223,7 +10223,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10232,7 +10232,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10249,7 +10249,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10258,7 +10258,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10275,7 +10275,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "column",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10284,7 +10284,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "column",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10301,7 +10301,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "substring",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10310,7 +10310,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "substring",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10319,7 +10319,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "substring",
-              "map": "282048602ba9",
+              "map": "3a965f682ba9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -10336,7 +10336,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10345,7 +10345,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10362,7 +10362,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_WAKA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10379,7 +10379,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10388,7 +10388,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10405,7 +10405,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10414,7 +10414,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10431,7 +10431,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "startTagPosition",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10440,7 +10440,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "startTagPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10457,7 +10457,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10474,7 +10474,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10483,7 +10483,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10500,7 +10500,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10509,7 +10509,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10526,7 +10526,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10535,7 +10535,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10552,7 +10552,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10561,7 +10561,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10578,7 +10578,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10587,7 +10587,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10604,7 +10604,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10621,7 +10621,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10630,7 +10630,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e4b21",
+              "map": "3a9623b64b21",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10639,7 +10639,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10656,7 +10656,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10665,7 +10665,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10682,7 +10682,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10691,7 +10691,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10708,7 +10708,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10725,7 +10725,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10734,7 +10734,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10751,7 +10751,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10760,7 +10760,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10777,7 +10777,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10786,7 +10786,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10803,7 +10803,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trim",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10820,7 +10820,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "normalize",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10837,7 +10837,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10846,7 +10846,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10863,7 +10863,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10872,7 +10872,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10889,7 +10889,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10898,7 +10898,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10915,7 +10915,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10924,7 +10924,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10941,7 +10941,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10950,7 +10950,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10967,7 +10967,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -10984,7 +10984,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -10993,7 +10993,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11010,7 +11010,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11019,7 +11019,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11036,7 +11036,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11045,7 +11045,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11062,7 +11062,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11079,7 +11079,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11088,7 +11088,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11105,7 +11105,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11114,7 +11114,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11131,7 +11131,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "noscript",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11140,7 +11140,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "noscript",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11157,7 +11157,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11174,7 +11174,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11183,7 +11183,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11200,7 +11200,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11209,7 +11209,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11226,7 +11226,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11235,7 +11235,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11252,7 +11252,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11261,7 +11261,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11278,7 +11278,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11287,7 +11287,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11304,7 +11304,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11313,7 +11313,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11330,7 +11330,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11339,7 +11339,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11356,7 +11356,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11365,7 +11365,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11382,7 +11382,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11391,7 +11391,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11408,7 +11408,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11417,7 +11417,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11434,7 +11434,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB_VALUE_UNQUOTED",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11451,7 +11451,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "CLOSE_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11468,7 +11468,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11477,7 +11477,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11494,7 +11494,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11503,7 +11503,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11520,7 +11520,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11529,7 +11529,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11546,7 +11546,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "5",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11563,7 +11563,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "4",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11572,7 +11572,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "-1",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 3
             }
@@ -11589,7 +11589,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11598,7 +11598,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11615,7 +11615,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "CLOSE_TAG",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11632,7 +11632,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11641,7 +11641,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11658,7 +11658,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11667,7 +11667,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11684,7 +11684,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11693,7 +11693,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11710,7 +11710,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11719,7 +11719,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11736,7 +11736,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "script",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11745,7 +11745,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "script",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11762,7 +11762,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11771,7 +11771,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11788,7 +11788,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11805,7 +11805,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11814,7 +11814,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11831,7 +11831,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11840,7 +11840,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11857,7 +11857,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11866,7 +11866,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11883,7 +11883,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11900,7 +11900,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11909,7 +11909,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11926,7 +11926,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11935,7 +11935,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11952,7 +11952,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11969,7 +11969,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -11978,7 +11978,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -11995,7 +11995,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "pop",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12012,7 +12012,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12021,7 +12021,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12038,7 +12038,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12047,7 +12047,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tag",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12064,7 +12064,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12081,7 +12081,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12090,7 +12090,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12107,7 +12107,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12116,7 +12116,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12133,7 +12133,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ns",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12150,7 +12150,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12159,7 +12159,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12176,7 +12176,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12185,7 +12185,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tags",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12202,7 +12202,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12219,7 +12219,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12228,7 +12228,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12245,7 +12245,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12262,7 +12262,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12271,7 +12271,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12288,7 +12288,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12297,7 +12297,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribValue",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12314,7 +12314,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12323,7 +12323,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "tagName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12340,7 +12340,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12349,7 +12349,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "attribList",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12366,7 +12366,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12383,7 +12383,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12392,7 +12392,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12409,7 +12409,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ATTRIB",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12426,7 +12426,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12435,7 +12435,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12452,7 +12452,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_TAG_SLASH",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12469,7 +12469,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e4a19",
+              "map": "3a9623b64a19",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12478,7 +12478,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12495,7 +12495,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12512,7 +12512,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "MAX_BUFFER_LENGTH",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12529,7 +12529,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12538,7 +12538,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12555,7 +12555,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12564,7 +12564,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12581,7 +12581,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lowercase",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12590,7 +12590,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "lowercase",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12607,7 +12607,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12616,7 +12616,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12633,7 +12633,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lowercasetags",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12642,7 +12642,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "lowercasetags",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12659,7 +12659,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e3e69",
+              "map": "3a9623b63e69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12668,7 +12668,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12685,7 +12685,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "lowercase",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12702,7 +12702,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12719,7 +12719,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e4231",
+              "map": "3a9623b64231",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12728,7 +12728,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12745,7 +12745,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strictEntities",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12762,7 +12762,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strictEntities",
-              "map": "2820637e4289",
+              "map": "3a9623b64289",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12771,7 +12771,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "strictEntities",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12788,7 +12788,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "create",
-              "map": "282063782361",
+              "map": "3a9623b02361",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12805,7 +12805,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ENTITIES",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12822,7 +12822,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e43e9",
+              "map": "3a9623b643e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12831,7 +12831,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12848,7 +12848,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12865,7 +12865,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e43e9",
+              "map": "3a9623b643e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12874,7 +12874,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12891,7 +12891,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e3ec1",
+              "map": "3a9623b63ec1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12908,7 +12908,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trackPosition",
-              "map": "2820637e4441",
+              "map": "3a9623b64441",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12917,7 +12917,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "trackPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 2
             }
@@ -12934,7 +12934,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12951,7 +12951,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12968,7 +12968,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "0",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -12985,7 +12985,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "comment",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -12994,7 +12994,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sgmlDecl",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             },
@@ -13003,7 +13003,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "textNode",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 3
             }
@@ -13020,7 +13020,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "length",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -13029,7 +13029,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -13038,7 +13038,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "length",
-              "map": "282048602ba9",
+              "map": "3a965f682ba9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -13055,7 +13055,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "max",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13072,7 +13072,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "error",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             },
@@ -13081,7 +13081,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "error",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -13098,7 +13098,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closed",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             },
@@ -13107,7 +13107,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "closed",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 2
             }
@@ -13124,7 +13124,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN_WHITESPACE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13141,7 +13141,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13158,7 +13158,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_WAKA",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13175,7 +13175,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13192,7 +13192,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13209,7 +13209,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13226,7 +13226,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13243,7 +13243,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13260,7 +13260,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13277,7 +13277,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST_BODY",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13294,7 +13294,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13311,7 +13311,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "PROC_INST_ENDING",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13328,7 +13328,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13345,7 +13345,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstBody",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13362,7 +13362,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "procInstName",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13379,7 +13379,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13396,7 +13396,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13413,7 +13413,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             }
@@ -13430,7 +13430,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             }
@@ -13447,7 +13447,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "bufferCheckPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             }
@@ -13464,7 +13464,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "max",
-              "map": "282063783ac1",
+              "map": "3a9623b03ac1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13481,7 +13481,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "MAX_BUFFER_LENGTH",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13498,7 +13498,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13515,7 +13515,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "MAX_BUFFER_LENGTH",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13532,7 +13532,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "position",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13549,7 +13549,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "bufferCheckPosition",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13566,7 +13566,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "write",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13583,7 +13583,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "sawRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13600,7 +13600,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closedRoot",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13617,7 +13617,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13634,7 +13634,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13651,7 +13651,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13668,7 +13668,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "BEGIN_WHITESPACE",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13685,7 +13685,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13702,7 +13702,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "TEXT",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13719,7 +13719,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "c",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13736,7 +13736,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "closed",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13753,7 +13753,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "call",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13770,7 +13770,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13787,7 +13787,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "opt",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13804,7 +13804,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "OPEN_TAG_SLASH",
-              "map": "2820637d81b1",
+              "map": "3a9623b581b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13821,7 +13821,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "state",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -13836,7 +13836,7 @@
           "column": 31,
           "updates": [
             {
-              "timestamp": 351240,
+              "timestamp": 399834,
               "bailoutType": "eager",
               "deoptReason": "out of bounds",
               "optimizationState": 2,
@@ -13852,7 +13852,7 @@
           "column": 16,
           "updates": [
             {
-              "timestamp": 351501,
+              "timestamp": 400097,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -13868,7 +13868,7 @@
           "column": 14,
           "updates": [
             {
-              "timestamp": 373648,
+              "timestamp": 419658,
               "bailoutType": "soft",
               "deoptReason": "Insufficient type feedback for call",
               "optimizationState": 2,
@@ -13884,7 +13884,7 @@
           "column": 30,
           "updates": [
             {
-              "timestamp": 1066490,
+              "timestamp": 1157586,
               "bailoutType": "soft",
               "deoptReason": "Insufficient type feedback for generic named access",
               "optimizationState": 2,
@@ -13900,7 +13900,7 @@
           "column": 19,
           "updates": [
             {
-              "timestamp": 1416111,
+              "timestamp": 1434773,
               "bailoutType": "soft",
               "deoptReason": "Insufficient type feedback for generic named access",
               "optimizationState": 2,
@@ -13919,7 +13919,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 173927,
+              "timestamp": 205317,
               "state": 1,
               "severity": 2
             }
@@ -13933,7 +13933,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 174360,
+              "timestamp": 205755,
               "state": 1,
               "severity": 2
             }
@@ -13947,7 +13947,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 175327,
+              "timestamp": 206717,
               "state": 1,
               "severity": 2
             }
@@ -13961,7 +13961,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204381,
+              "timestamp": 245421,
               "state": 1,
               "severity": 2
             }
@@ -13975,7 +13975,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204508,
+              "timestamp": 245544,
               "state": 1,
               "severity": 2
             }
@@ -13989,7 +13989,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204569,
+              "timestamp": 245606,
               "state": 1,
               "severity": 2
             }
@@ -14003,12 +14003,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 205146,
+              "timestamp": 246286,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 395223,
+              "timestamp": 443955,
               "state": 2,
               "severity": 1
             }
@@ -14022,47 +14022,47 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 209649,
+              "timestamp": 250914,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 282197,
+              "timestamp": 333978,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 373515,
+              "timestamp": 419545,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 446048,
+              "timestamp": 492712,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 525624,
+              "timestamp": 575092,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 1126048,
+              "timestamp": 1213288,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 1165973,
+              "timestamp": 1245401,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 1494014,
+              "timestamp": 1508443,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 1555319,
+              "timestamp": 1567155,
               "state": 2,
               "severity": 1
             }
@@ -14076,12 +14076,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 209725,
+              "timestamp": 250996,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 223222,
+              "timestamp": 264570,
               "state": 2,
               "severity": 1
             }
@@ -14095,7 +14095,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 209888,
+              "timestamp": 251173,
               "state": 1,
               "severity": 2
             }
@@ -14109,12 +14109,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 210104,
+              "timestamp": 251407,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 248117,
+              "timestamp": 291511,
               "state": 2,
               "severity": 1
             }
@@ -14128,12 +14128,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 210149,
+              "timestamp": 251455,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 240184,
+              "timestamp": 283522,
               "state": 2,
               "severity": 1
             }
@@ -14147,17 +14147,17 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 210777,
+              "timestamp": 252055,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 295970,
+              "timestamp": 345791,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 456122,
+              "timestamp": 502486,
               "state": 2,
               "severity": 1
             }
@@ -14171,7 +14171,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 211065,
+              "timestamp": 252355,
               "state": 1,
               "severity": 2
             }
@@ -14185,12 +14185,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 211355,
+              "timestamp": 252638,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 394651,
+              "timestamp": 442582,
               "state": 2,
               "severity": 1
             }
@@ -14204,7 +14204,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 211410,
+              "timestamp": 252696,
               "state": 1,
               "severity": 2
             }
@@ -14218,7 +14218,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 211724,
+              "timestamp": 253031,
               "state": 1,
               "severity": 2
             }
@@ -14232,17 +14232,22 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 212018,
+              "timestamp": 253323,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 313414,
+              "timestamp": 361912,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 459384,
+              "timestamp": 516053,
+              "state": 2,
+              "severity": 1
+            },
+            {
+              "timestamp": 860446,
               "state": 2,
               "severity": 1
             }
@@ -14256,17 +14261,17 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 213761,
+              "timestamp": 254990,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 315314,
+              "timestamp": 363870,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 469594,
+              "timestamp": 515673,
               "state": 2,
               "severity": 1
             }
@@ -14280,7 +14285,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 215801,
+              "timestamp": 257110,
               "state": 1,
               "severity": 2
             }
@@ -14294,17 +14299,17 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216089,
+              "timestamp": 257491,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 295498,
+              "timestamp": 345586,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 451628,
+              "timestamp": 498272,
               "state": 2,
               "severity": 1
             }
@@ -14318,7 +14323,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 351881,
+              "timestamp": 400483,
               "state": 1,
               "severity": 2
             }
@@ -14332,7 +14337,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 352071,
+              "timestamp": 400670,
               "state": 1,
               "severity": 2
             }
@@ -14346,7 +14351,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 373866,
+              "timestamp": 419838,
               "state": 1,
               "severity": 2
             }
@@ -14373,7 +14378,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stripBOM",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14390,7 +14395,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "0",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14399,7 +14404,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "0",
-              "map": "282048602ba9",
+              "map": "3a965f682ba9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -14416,7 +14421,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 176185,
+              "timestamp": 207907,
               "state": 1,
               "severity": 2
             }
@@ -14430,7 +14435,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 208836,
+              "timestamp": 250163,
               "state": 1,
               "severity": 2
             }
@@ -14457,7 +14462,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "normalize",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14474,7 +14479,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "firstCharLowerCase",
-              "map": "2820637d8579",
+              "map": "3a9623b58579",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14491,7 +14496,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stripPrefix",
-              "map": "2820637d85d1",
+              "map": "3a9623b585d1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14508,7 +14513,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseNumbers",
-              "map": "2820637d8629",
+              "map": "3a9623b58629",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14525,7 +14530,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseBooleans",
-              "map": "2820637d8681",
+              "map": "3a9623b58681",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14542,7 +14547,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 176665,
+              "timestamp": 208744,
               "state": 1,
               "severity": 2
             }
@@ -14569,7 +14574,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "EventEmitter",
-              "map": "28206378fc49",
+              "map": "3a9623b0fc49",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14578,7 +14583,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "usingDomains",
-              "map": "28206378fc49",
+              "map": "3a9623b0fc49",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14587,7 +14592,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "defaultMaxListeners",
-              "map": "28206378fc49",
+              "map": "3a9623b0fc49",
               "optimizationState": 1,
               "severity": 3
             }
@@ -14604,7 +14609,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "EventEmitter",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14613,7 +14618,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "usingDomains",
-              "map": "28206378f931",
+              "map": "3a9623b0f931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14622,7 +14627,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "defaultMaxListeners",
-              "map": "28206378f989",
+              "map": "3a9623b0f989",
               "optimizationState": 1,
               "severity": 3
             }
@@ -14639,7 +14644,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "call",
-              "map": "282063782519",
+              "map": "3a9623b02519",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14656,7 +14661,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14673,7 +14678,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d8839",
+              "map": "3a9623b58839",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14690,7 +14695,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637d87e1",
+              "map": "3a9623b587e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14707,7 +14712,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "__super__",
-              "map": "2820637d87e1",
+              "map": "3a9623b587e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14724,7 +14729,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Parser",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14741,7 +14746,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseString",
-              "map": "2820637d89f1",
+              "map": "3a9623b589f1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14758,7 +14763,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseString",
-              "map": "2820637e2e99",
+              "map": "3a9623b62e99",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14767,7 +14772,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e2e99",
+              "map": "3a9623b62e99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14784,7 +14789,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "reset",
-              "map": "2820637e2ef1",
+              "map": "3a9623b62ef1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14793,7 +14798,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e77d1",
+              "map": "3a9623b677d1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14802,7 +14807,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e77d1",
+              "map": "3a9623b677d1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14819,7 +14824,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "assignOrPush",
-              "map": "2820637e2f49",
+              "map": "3a9623b62f49",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14828,7 +14833,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7829",
+              "map": "3a9623b67829",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14837,7 +14842,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7f61",
+              "map": "3a9623b67f61",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14846,7 +14851,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7f61",
+              "map": "3a9623b67f61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14863,7 +14868,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "processAsync",
-              "map": "2820637e2fa1",
+              "map": "3a9623b62fa1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14872,7 +14877,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e7881",
+              "map": "3a9623b67881",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14881,7 +14886,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e7fb9",
+              "map": "3a9623b67fb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14890,7 +14895,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e8279",
+              "map": "3a9623b68279",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14899,7 +14904,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e8279",
+              "map": "3a9623b68279",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14916,7 +14921,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "options",
-              "map": "2820637e2ff9",
+              "map": "3a9623b62ff9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14925,7 +14930,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e78d9",
+              "map": "3a9623b678d9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14934,7 +14939,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8011",
+              "map": "3a9623b68011",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14943,7 +14948,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e82d1",
+              "map": "3a9623b682d1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14952,7 +14957,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8539",
+              "map": "3a9623b68539",
               "optimizationState": 1,
               "severity": 1
             }
@@ -14969,7 +14974,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "explicitCharkey",
-              "map": "2820637d46e9",
+              "map": "3a9623b546e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14978,7 +14983,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trim",
-              "map": "2820637d46e9",
+              "map": "3a9623b546e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -14987,7 +14992,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "normalize",
-              "map": "2820637d46e9",
+              "map": "3a9623b546e9",
               "optimizationState": 1,
               "severity": 3
             }
@@ -15004,7 +15009,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "explicitCharkey",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15013,7 +15018,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trim",
-              "map": "2820637e30a9",
+              "map": "3a9623b630a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15022,7 +15027,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "normalize",
-              "map": "2820637e3159",
+              "map": "3a9623b63159",
               "optimizationState": 1,
               "severity": 3
             }
@@ -15039,7 +15044,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "call",
-              "map": "282063782519",
+              "map": "3a9623b02519",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15056,7 +15061,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e3051",
+              "map": "3a9623b63051",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15065,7 +15070,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15074,7 +15079,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15083,7 +15088,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15092,7 +15097,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15109,7 +15114,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xmlns",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15118,7 +15123,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15127,7 +15132,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e3839",
+              "map": "3a9623b63839",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15136,7 +15141,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "xmlns",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -15153,7 +15158,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "saxParser",
-              "map": "2820637e3051",
+              "map": "3a9623b63051",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15162,7 +15167,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15171,7 +15176,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15180,7 +15185,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15189,7 +15194,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15198,7 +15203,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15207,7 +15212,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15216,7 +15221,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15225,7 +15230,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15234,7 +15239,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -15251,7 +15256,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "errThrown",
-              "map": "2820637e4549",
+              "map": "3a9623b64549",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15260,7 +15265,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "errThrown",
-              "map": "2820637e4549",
+              "map": "3a9623b64549",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15277,7 +15282,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "onerror",
-              "map": "2820637e45f9",
+              "map": "3a9623b645f9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15286,7 +15291,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onerror",
-              "map": "2820637e45f9",
+              "map": "3a9623b645f9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15303,7 +15308,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "onend",
-              "map": "2820637e4651",
+              "map": "3a9623b64651",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15312,7 +15317,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onend",
-              "map": "2820637e68b1",
+              "map": "3a9623b668b1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15321,7 +15326,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "onend",
-              "map": "2820637e68b1",
+              "map": "3a9623b668b1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15338,7 +15343,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ended",
-              "map": "2820637e46a9",
+              "map": "3a9623b646a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15347,7 +15352,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ended",
-              "map": "2820637e6909",
+              "map": "3a9623b66909",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15356,7 +15361,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "ended",
-              "map": "2820637e75c1",
+              "map": "3a9623b675c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15373,7 +15378,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e45a1",
+              "map": "3a9623b645a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15382,7 +15387,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15391,7 +15396,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15400,7 +15405,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15409,7 +15414,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15418,7 +15423,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15427,7 +15432,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15436,7 +15441,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15445,7 +15450,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15454,7 +15459,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -15471,7 +15476,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "resultObject",
-              "map": "2820637e4759",
+              "map": "3a9623b64759",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15480,7 +15485,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15489,7 +15494,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e7a39",
+              "map": "3a9623b67a39",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15498,7 +15503,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "resultObject",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15507,7 +15512,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8119",
+              "map": "3a9623b68119",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15516,7 +15521,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "resultObject",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15525,7 +15530,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e83d9",
+              "map": "3a9623b683d9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15534,7 +15539,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "resultObject",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -15543,7 +15548,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8641",
+              "map": "3a9623b68641",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15552,7 +15557,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "resultObject",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -15569,7 +15574,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "onopentag",
-              "map": "2820637e4701",
+              "map": "3a9623b64701",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15578,7 +15583,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onopentag",
-              "map": "2820637e6961",
+              "map": "3a9623b66961",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15587,7 +15592,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "onopentag",
-              "map": "2820637e7619",
+              "map": "3a9623b67619",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15604,7 +15609,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "onclosetag",
-              "map": "2820637e4809",
+              "map": "3a9623b64809",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15613,7 +15618,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "onclosetag",
-              "map": "2820637e69b9",
+              "map": "3a9623b669b9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15622,7 +15627,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "onclosetag",
-              "map": "2820637e7671",
+              "map": "3a9623b67671",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15639,7 +15644,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ontext",
-              "map": "2820637e4861",
+              "map": "3a9623b64861",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15648,7 +15653,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ontext",
-              "map": "2820637e6a11",
+              "map": "3a9623b66a11",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15657,7 +15662,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "ontext",
-              "map": "2820637e76c9",
+              "map": "3a9623b676c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15674,7 +15679,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "oncdata",
-              "map": "2820637e48b9",
+              "map": "3a9623b648b9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15683,7 +15688,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "oncdata",
-              "map": "2820637e6a69",
+              "map": "3a9623b66a69",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15692,7 +15697,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "oncdata",
-              "map": "2820637e7721",
+              "map": "3a9623b67721",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15709,7 +15714,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "apply",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15726,7 +15731,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toString",
-              "map": "2820637cf729",
+              "map": "3a9623b4f729",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15735,7 +15740,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toString",
-              "map": "2820637cf729",
+              "map": "3a9623b4f729",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15752,7 +15757,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "trim",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15761,7 +15766,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trim",
-              "map": "282048604301",
+              "map": "3a965f684301",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15770,7 +15775,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "trim",
-              "map": "282048602ba9",
+              "map": "3a965f682ba9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -15787,7 +15792,7 @@
               "oldState": 0,
               "newState": 5,
               "key": "-1",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -15804,7 +15809,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15813,7 +15818,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15830,7 +15835,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "$",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15839,7 +15844,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "$",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15856,7 +15861,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xmlns:SOAP-ENV",
-              "map": "2820637e4ff1",
+              "map": "3a9623b64ff1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15865,7 +15870,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns:ns1",
-              "map": "2820637e4ff1",
+              "map": "3a9623b64ff1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15874,7 +15879,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "xmlns:os",
-              "map": "2820637e4ff1",
+              "map": "3a9623b64ff1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -15891,7 +15896,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "$",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15900,7 +15905,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "$",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15917,7 +15922,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xmlns:SOAP-ENV",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15926,7 +15931,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns:ns1",
-              "map": "2820637e4b79",
+              "map": "3a9623b64b79",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15935,7 +15940,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "xmlns:os",
-              "map": "2820637e4c29",
+              "map": "3a9623b64c29",
               "optimizationState": 1,
               "severity": 3
             }
@@ -15952,7 +15957,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "call",
-              "map": "282063782519",
+              "map": "3a9623b02519",
               "optimizationState": 1,
               "severity": 1
             }
@@ -15969,7 +15974,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15978,7 +15983,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15987,7 +15992,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -15996,7 +16001,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16005,7 +16010,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16022,7 +16027,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attrValueProcessors",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16031,7 +16036,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "attrValueProcessors",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16048,7 +16053,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attributes",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16065,7 +16070,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16074,7 +16079,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16083,7 +16088,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16092,7 +16097,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16101,7 +16106,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16118,7 +16123,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attrNameProcessors",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16127,7 +16132,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "attrNameProcessors",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16144,7 +16149,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16153,7 +16158,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16162,7 +16167,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16171,7 +16176,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16180,7 +16185,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16197,7 +16202,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "mergeAttrs",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16206,7 +16211,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "mergeAttrs",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16223,7 +16228,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "#name",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16232,7 +16237,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "#name",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16241,7 +16246,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "#name",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16258,7 +16263,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16275,7 +16280,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e5151",
+              "map": "3a9623b65151",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16284,7 +16289,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e51a9",
+              "map": "3a9623b651a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16293,7 +16298,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e5201",
+              "map": "3a9623b65201",
               "optimizationState": 1,
               "severity": 2
             },
@@ -16302,7 +16307,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "_",
-              "map": "2820637e5309",
+              "map": "3a9623b65309",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16319,7 +16324,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e5151",
+              "map": "3a9623b65151",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16328,7 +16333,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e51a9",
+              "map": "3a9623b651a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16337,7 +16342,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e5201",
+              "map": "3a9623b65201",
               "optimizationState": 1,
               "severity": 2
             },
@@ -16346,7 +16351,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "_",
-              "map": "2820637e5309",
+              "map": "3a9623b65309",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16363,7 +16368,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16372,7 +16377,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16381,7 +16386,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16390,7 +16395,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16399,7 +16404,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16416,7 +16421,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ignoreAttrs",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16425,7 +16430,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "ignoreAttrs",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16442,7 +16447,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attributes",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16459,7 +16464,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16468,7 +16473,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16477,7 +16482,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16486,7 +16491,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16495,7 +16500,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16512,7 +16517,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "tagNameProcessors",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16521,7 +16526,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "tagNameProcessors",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16538,7 +16543,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "name",
-              "map": "2820637e5049",
+              "map": "3a9623b65049",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16555,7 +16560,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16564,7 +16569,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16573,7 +16578,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16582,7 +16587,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16591,7 +16596,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16608,7 +16613,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16617,7 +16622,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "xmlns",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16634,7 +16639,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16651,7 +16656,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16660,7 +16665,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16669,7 +16674,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16678,7 +16683,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16687,7 +16692,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16704,7 +16709,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitChildren",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16713,7 +16718,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "explicitChildren",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16730,7 +16735,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "4",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16739,7 +16744,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "-1",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16756,7 +16761,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16765,7 +16770,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16774,7 +16779,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             },
@@ -16783,7 +16788,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "_",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16800,7 +16805,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "match",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16809,7 +16814,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "match",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16818,7 +16823,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "match",
-              "map": "282048604509",
+              "map": "3a965f684509",
               "optimizationState": 1,
               "severity": 2
             },
@@ -16827,7 +16832,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "match",
-              "map": "282048602ba9",
+              "map": "3a965f682ba9",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16844,7 +16849,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16853,7 +16858,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16862,7 +16867,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16879,7 +16884,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16888,7 +16893,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16897,7 +16902,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -16914,7 +16919,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16923,7 +16928,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16940,7 +16945,7 @@
               "oldState": 0,
               "newState": 2,
               "key": "0",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -16957,7 +16962,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "os:resultPosition",
-              "map": "2820637e51a9",
+              "map": "3a9623b651a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16966,7 +16971,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "os:numberOfObjects",
-              "map": "2820637e5201",
+              "map": "3a9623b65201",
               "optimizationState": 1,
               "severity": 1
             },
@@ -16975,7 +16980,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "ac:identifier",
-              "map": "2820637e51a9",
+              "map": "3a9623b651a9",
               "optimizationState": 1,
               "severity": 3
             }
@@ -16992,7 +16997,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "pop",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17009,7 +17014,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "#name",
-              "map": "2820637e51a9",
+              "map": "3a9623b651a9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17018,7 +17023,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "#name",
-              "map": "2820637e5151",
+              "map": "3a9623b65151",
               "optimizationState": 1,
               "severity": 2
             },
@@ -17027,7 +17032,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "#name",
-              "map": "2820637e5bf9",
+              "map": "3a9623b65bf9",
               "optimizationState": 1,
               "severity": 3
             }
@@ -17044,7 +17049,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17053,7 +17058,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17062,7 +17067,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17071,7 +17076,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17080,7 +17085,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17097,7 +17102,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitChildren",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17106,7 +17111,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "explicitChildren",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17123,7 +17128,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "cdata",
-              "map": "2820637e50a1",
+              "map": "3a9623b650a1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17132,7 +17137,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "cdata",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             },
@@ -17141,7 +17146,7 @@
               "oldState": 4,
               "newState": 5,
               "key": "cdata",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 3
             }
@@ -17158,7 +17163,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17175,7 +17180,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17184,7 +17189,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17193,7 +17198,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17202,7 +17207,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17211,7 +17216,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17228,7 +17233,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "trim",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17237,7 +17242,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "trim",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17254,7 +17259,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17263,7 +17268,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17272,7 +17277,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17281,7 +17286,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17290,7 +17295,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17307,7 +17312,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "normalize",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17316,7 +17321,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "normalize",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17333,7 +17338,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17342,7 +17347,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17351,7 +17356,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17360,7 +17365,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17369,7 +17374,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17386,7 +17391,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "valueProcessors",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17395,7 +17400,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "valueProcessors",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17412,7 +17417,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "keys",
-              "map": "282063782361",
+              "map": "3a9623b02361",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17429,7 +17434,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17446,7 +17451,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17455,7 +17460,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17464,7 +17469,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17473,7 +17478,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17482,7 +17487,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "EXPLICIT_CHARKEY",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17499,7 +17504,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17508,7 +17513,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17517,7 +17522,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17526,7 +17531,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17535,7 +17540,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17552,7 +17557,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "validator",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17561,7 +17566,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "validator",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17578,7 +17583,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17587,7 +17592,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17596,7 +17601,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17605,7 +17610,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17614,7 +17619,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17631,7 +17636,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitChildren",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17640,7 +17645,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "explicitChildren",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17657,7 +17662,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17674,7 +17679,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17683,7 +17688,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17692,7 +17697,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17701,7 +17706,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17710,7 +17715,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17727,7 +17732,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17736,7 +17741,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17745,7 +17750,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17754,7 +17759,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17763,7 +17768,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17780,7 +17785,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitArray",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17789,7 +17794,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "explicitArray",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17806,7 +17811,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17815,7 +17820,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17824,7 +17829,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17833,7 +17838,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17842,7 +17847,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17859,7 +17864,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "mergeAttrs",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17868,7 +17873,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "mergeAttrs",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -17885,7 +17890,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "dc:title",
-              "map": "2820637e5361",
+              "map": "3a9623b65361",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17894,7 +17899,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "dc:creator",
-              "map": "2820637e5411",
+              "map": "3a9623b65411",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17903,7 +17908,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "dc:subject",
-              "map": "2820637e5469",
+              "map": "3a9623b65469",
               "optimizationState": 1,
               "severity": 3
             }
@@ -17920,7 +17925,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "dc:title",
-              "map": "2820637e5361",
+              "map": "3a9623b65361",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17929,7 +17934,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "dc:creator",
-              "map": "2820637e5411",
+              "map": "3a9623b65411",
               "optimizationState": 1,
               "severity": 1
             },
@@ -17938,7 +17943,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "dc:subject",
-              "map": "2820637e5469",
+              "map": "3a9623b65469",
               "optimizationState": 1,
               "severity": 3
             }
@@ -17955,7 +17960,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "keys",
-              "map": "282063782361",
+              "map": "3a9623b02361",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17972,7 +17977,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "length",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -17989,7 +17994,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -18006,7 +18011,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "_",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18015,7 +18020,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "_",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18024,7 +18029,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "_",
-              "map": "2820637e50f9",
+              "map": "3a9623b650f9",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18041,7 +18046,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "SOAP-ENV:Envelope",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18050,7 +18055,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "SOAP-ENV:Envelope",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 2,
               "severity": 1
             },
@@ -18059,7 +18064,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "SOAP-ENV:Envelope",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 3
             }
@@ -18076,7 +18081,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "removeAllListeners",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18085,7 +18090,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "removeAllListeners",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18094,7 +18099,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "removeAllListeners",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18103,7 +18108,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "removeAllListeners",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18112,7 +18117,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "removeAllListeners",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18121,7 +18126,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "removeAllListeners",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18130,7 +18135,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "removeAllListeners",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18139,7 +18144,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "removeAllListeners",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18148,7 +18153,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "removeAllListeners",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18165,7 +18170,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parser",
-              "map": "2820637d84c9",
+              "map": "3a9623b584c9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -18182,7 +18187,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18191,7 +18196,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18200,7 +18205,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18209,7 +18214,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18218,7 +18223,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18227,7 +18232,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18236,7 +18241,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18245,7 +18250,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18254,7 +18259,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18271,7 +18276,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "strict",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18280,7 +18285,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "strict",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18297,7 +18302,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18306,7 +18311,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18315,7 +18320,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18324,7 +18329,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18333,7 +18338,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18342,7 +18347,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18351,7 +18356,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18360,7 +18365,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18369,7 +18374,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18386,7 +18391,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18395,7 +18400,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18404,7 +18409,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18413,7 +18418,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18422,7 +18427,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18431,7 +18436,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18440,7 +18445,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18449,7 +18454,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18458,7 +18463,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18475,7 +18480,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18484,7 +18489,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18493,7 +18498,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18502,7 +18507,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18511,7 +18516,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18520,7 +18525,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18529,7 +18534,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18538,7 +18543,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18547,7 +18552,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18564,7 +18569,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18573,7 +18578,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18582,7 +18587,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18591,7 +18596,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18600,7 +18605,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18609,7 +18614,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18618,7 +18623,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18627,7 +18632,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18636,7 +18641,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18653,7 +18658,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18662,7 +18667,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18671,7 +18676,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18680,7 +18685,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18689,7 +18694,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18698,7 +18703,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18707,7 +18712,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18716,7 +18721,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18725,7 +18730,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18742,7 +18747,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18751,7 +18756,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e79e1",
+              "map": "3a9623b679e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18760,7 +18765,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18769,7 +18774,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e80c1",
+              "map": "3a9623b680c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18778,7 +18783,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18787,7 +18792,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8381",
+              "map": "3a9623b68381",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18796,7 +18801,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18805,7 +18810,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e85e9",
+              "map": "3a9623b685e9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18814,7 +18819,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18831,7 +18836,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitCharkey",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18840,7 +18845,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "explicitCharkey",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18857,7 +18862,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18866,7 +18871,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18875,7 +18880,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18884,7 +18889,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18893,7 +18898,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18902,7 +18907,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18911,7 +18916,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18920,7 +18925,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18929,7 +18934,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18946,7 +18951,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "attrkey",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18955,7 +18960,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "attrkey",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -18972,7 +18977,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18981,7 +18986,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -18990,7 +18995,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -18999,7 +19004,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19008,7 +19013,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19017,7 +19022,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19026,7 +19031,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19035,7 +19040,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19044,7 +19049,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19061,7 +19066,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "charkey",
-              "map": "2820637e1cb9",
+              "map": "3a9623b61cb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19070,7 +19075,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "charkey",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19087,7 +19092,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19096,7 +19101,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19105,7 +19110,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19114,7 +19119,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19123,7 +19128,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19132,7 +19137,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19141,7 +19146,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19150,7 +19155,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19159,7 +19164,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19176,7 +19181,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19185,7 +19190,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19194,7 +19199,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19203,7 +19208,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19212,7 +19217,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19221,7 +19226,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19230,7 +19235,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19239,7 +19244,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19248,7 +19253,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19265,7 +19270,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19274,7 +19279,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19283,7 +19288,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19292,7 +19297,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19301,7 +19306,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19310,7 +19315,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19319,7 +19324,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19328,7 +19333,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19337,7 +19342,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19354,7 +19359,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e49c1",
+              "map": "3a9623b649c1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19363,7 +19368,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19372,7 +19377,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19381,7 +19386,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19390,7 +19395,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19399,7 +19404,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19408,7 +19413,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 2
             },
@@ -19417,7 +19422,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19426,7 +19431,7 @@
               "oldState": 2,
               "newState": 4,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 2
             }
@@ -19443,7 +19448,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "Parser",
-              "map": "2820637d8a49",
+              "map": "3a9623b58a49",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19460,7 +19465,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e2e99",
+              "map": "3a9623b62e99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19477,7 +19482,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e77d1",
+              "map": "3a9623b677d1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19494,7 +19499,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7829",
+              "map": "3a9623b67829",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19503,7 +19508,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "assignOrPush",
-              "map": "2820637e7f61",
+              "map": "3a9623b67f61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19520,7 +19525,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e7881",
+              "map": "3a9623b67881",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19529,7 +19534,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e7fb9",
+              "map": "3a9623b67fb9",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19538,7 +19543,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "processAsync",
-              "map": "2820637e8279",
+              "map": "3a9623b68279",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19555,7 +19560,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "Parser",
-              "map": "2820637d8a49",
+              "map": "3a9623b58a49",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19572,7 +19577,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "0.2",
-              "map": "2820637d4741",
+              "map": "3a9623b54741",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19589,7 +19594,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19598,7 +19603,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19607,7 +19612,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19616,7 +19621,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19633,7 +19638,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "xmlns",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19650,7 +19655,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19659,7 +19664,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19668,7 +19673,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19677,7 +19682,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19694,7 +19699,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "normalizeTags",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19711,7 +19716,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e7931",
+              "map": "3a9623b67931",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19720,7 +19725,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e8069",
+              "map": "3a9623b68069",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19729,7 +19734,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e8329",
+              "map": "3a9623b68329",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19738,7 +19743,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e8591",
+              "map": "3a9623b68591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19755,7 +19760,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19764,7 +19769,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19773,7 +19778,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19782,7 +19787,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19799,7 +19804,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "on",
-              "map": "2820637e7a91",
+              "map": "3a9623b67a91",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19808,7 +19813,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e8171",
+              "map": "3a9623b68171",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19817,7 +19822,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e8431",
+              "map": "3a9623b68431",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19826,7 +19831,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e8699",
+              "map": "3a9623b68699",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19843,7 +19848,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "on",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19852,7 +19857,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19861,7 +19866,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19870,7 +19875,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19887,7 +19892,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "stripBOM",
-              "map": "2820637d8521",
+              "map": "3a9623b58521",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19904,7 +19909,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19913,7 +19918,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19922,7 +19927,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19931,7 +19936,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19948,7 +19953,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "async",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 1,
               "severity": 1
             }
@@ -19965,7 +19970,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19974,7 +19979,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19983,7 +19988,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -19992,7 +19997,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20009,7 +20014,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "write",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20026,7 +20031,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "options",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 2,
               "severity": 1
             },
@@ -20035,7 +20040,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20044,7 +20049,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "options",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20061,7 +20066,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "explicitRoot",
-              "map": "2820637e7989",
+              "map": "3a9623b67989",
               "optimizationState": 2,
               "severity": 1
             }
@@ -20078,7 +20083,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 2,
               "severity": 1
             },
@@ -20087,7 +20092,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20096,7 +20101,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20113,7 +20118,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 2,
               "severity": 1
             },
@@ -20122,7 +20127,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20131,7 +20136,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20148,7 +20153,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ended",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 2,
               "severity": 1
             }
@@ -20165,7 +20170,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 2,
               "severity": 1
             },
@@ -20174,7 +20179,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20183,7 +20188,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20200,7 +20205,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 2,
               "severity": 1
             },
@@ -20209,7 +20214,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20218,7 +20223,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20235,7 +20240,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20244,7 +20249,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20253,7 +20258,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20262,7 +20267,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "reset",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20279,7 +20284,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "close",
-              "map": "2820637e7569",
+              "map": "3a9623b67569",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20296,7 +20301,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20305,7 +20310,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20314,7 +20319,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20323,7 +20328,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20340,7 +20345,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20349,7 +20354,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20358,7 +20363,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20367,7 +20372,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "saxParser",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20384,7 +20389,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ended",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20401,7 +20406,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20410,7 +20415,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20419,7 +20424,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20428,7 +20433,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "emit",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20445,7 +20450,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e7b41",
+              "map": "3a9623b67b41",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20454,7 +20459,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8221",
+              "map": "3a9623b68221",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20463,7 +20468,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e84e1",
+              "map": "3a9623b684e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -20472,7 +20477,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "resultObject",
-              "map": "2820637e8749",
+              "map": "3a9623b68749",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20489,7 +20494,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "ended",
-              "map": "2820637e7779",
+              "map": "3a9623b67779",
               "optimizationState": 1,
               "severity": 1
             }
@@ -20504,7 +20509,7 @@
           "column": 20,
           "updates": [
             {
-              "timestamp": 344046,
+              "timestamp": 392370,
               "bailoutType": "eager",
               "deoptReason": "out of bounds",
               "optimizationState": 2,
@@ -20520,7 +20525,7 @@
           "column": 22,
           "updates": [
             {
-              "timestamp": 531806,
+              "timestamp": 582145,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20528,7 +20533,7 @@
               "severity": 3
             },
             {
-              "timestamp": 615768,
+              "timestamp": 665824,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20536,7 +20541,7 @@
               "severity": 3
             },
             {
-              "timestamp": 700506,
+              "timestamp": 747225,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20552,7 +20557,7 @@
           "column": 23,
           "updates": [
             {
-              "timestamp": 532032,
+              "timestamp": 582403,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20560,7 +20565,7 @@
               "severity": 3
             },
             {
-              "timestamp": 615960,
+              "timestamp": 666085,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20568,7 +20573,7 @@
               "severity": 3
             },
             {
-              "timestamp": 700707,
+              "timestamp": 747444,
               "bailoutType": "eager",
               "deoptReason": "wrong map",
               "optimizationState": 2,
@@ -20584,7 +20589,7 @@
           "column": 23,
           "updates": [
             {
-              "timestamp": 609623,
+              "timestamp": 658778,
               "bailoutType": "soft",
               "deoptReason": "Insufficient type feedback for generic named access",
               "optimizationState": 2,
@@ -20592,7 +20597,7 @@
               "severity": 1
             },
             {
-              "timestamp": 694694,
+              "timestamp": 740920,
               "bailoutType": "soft",
               "deoptReason": "Insufficient type feedback for generic named access",
               "optimizationState": 2,
@@ -20611,7 +20616,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 171726,
+              "timestamp": 201427,
               "state": 1,
               "severity": 2
             }
@@ -20625,7 +20630,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 176962,
+              "timestamp": 209044,
               "state": 1,
               "severity": 2
             }
@@ -20639,7 +20644,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 177164,
+              "timestamp": 209327,
               "state": 1,
               "severity": 2
             }
@@ -20653,7 +20658,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 203374,
+              "timestamp": 244410,
               "state": 1,
               "severity": 2
             }
@@ -20667,7 +20672,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 203499,
+              "timestamp": 244536,
               "state": 1,
               "severity": 2
             }
@@ -20681,7 +20686,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 203555,
+              "timestamp": 244589,
               "state": 1,
               "severity": 2
             }
@@ -20695,12 +20700,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 203884,
+              "timestamp": 244924,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 621706,
+              "timestamp": 346031,
               "state": 2,
               "severity": 1
             }
@@ -20714,7 +20719,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204052,
+              "timestamp": 245083,
               "state": 1,
               "severity": 2
             }
@@ -20728,7 +20733,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204081,
+              "timestamp": 245112,
               "state": 1,
               "severity": 2
             }
@@ -20742,7 +20747,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204102,
+              "timestamp": 245134,
               "state": 1,
               "severity": 2
             }
@@ -20756,7 +20761,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204122,
+              "timestamp": 245155,
               "state": 1,
               "severity": 2
             }
@@ -20770,7 +20775,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204142,
+              "timestamp": 245176,
               "state": 1,
               "severity": 2
             }
@@ -20784,7 +20789,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204162,
+              "timestamp": 245197,
               "state": 1,
               "severity": 2
             }
@@ -20798,7 +20803,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 204182,
+              "timestamp": 245218,
               "state": 1,
               "severity": 2
             }
@@ -20812,7 +20817,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 205483,
+              "timestamp": 246668,
               "state": 1,
               "severity": 2
             }
@@ -20826,27 +20831,27 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 211538,
+              "timestamp": 252833,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 461965,
+              "timestamp": 508007,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 594803,
+              "timestamp": 643746,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 678862,
+              "timestamp": 726115,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 756676,
+              "timestamp": 801959,
               "state": 2,
               "severity": 1
             }
@@ -20860,32 +20865,32 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 213938,
+              "timestamp": 255173,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 301374,
+              "timestamp": 350512,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 456786,
+              "timestamp": 503674,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 556500,
+              "timestamp": 606241,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 647135,
+              "timestamp": 694775,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 728220,
+              "timestamp": 772097,
               "state": 2,
               "severity": 1
             }
@@ -20899,32 +20904,32 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216409,
+              "timestamp": 257807,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 309377,
+              "timestamp": 358023,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 465811,
+              "timestamp": 511785,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 560595,
+              "timestamp": 610280,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 654808,
+              "timestamp": 701729,
               "state": 2,
               "severity": 1
             },
             {
-              "timestamp": 736143,
+              "timestamp": 780858,
               "state": 2,
               "severity": 1
             }
@@ -20938,7 +20943,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216451,
+              "timestamp": 257833,
               "state": 1,
               "severity": 2
             }
@@ -20952,7 +20957,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216471,
+              "timestamp": 257853,
               "state": 1,
               "severity": 2
             }
@@ -20966,12 +20971,12 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216793,
+              "timestamp": 258138,
               "state": 1,
               "severity": 2
             },
             {
-              "timestamp": 465502,
+              "timestamp": 346617,
               "state": 2,
               "severity": 1
             }
@@ -20985,14 +20990,9 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 216864,
+              "timestamp": 258209,
               "state": 1,
               "severity": 2
-            },
-            {
-              "timestamp": 815229,
-              "state": 2,
-              "severity": 1
             }
           ]
         },
@@ -21004,7 +21004,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 344283,
+              "timestamp": 392602,
               "state": 1,
               "severity": 2
             }
@@ -21018,7 +21018,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 374102,
+              "timestamp": 420037,
               "state": 1,
               "severity": 2
             }
@@ -21045,7 +21045,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "processors",
-              "map": "2820637d4799",
+              "map": "3a9623b54799",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21062,7 +21062,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stackTraceLimit",
-              "map": "282063798d59",
+              "map": "3a9623b18d59",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21079,7 +21079,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "stackTraceLimit",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21096,7 +21096,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "282063782621",
+              "map": "3a9623b02621",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21113,7 +21113,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "constructor",
-              "map": "2820637d8b51",
+              "map": "3a9623b58b51",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21130,7 +21130,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637d8af9",
+              "map": "3a9623b58af9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21147,7 +21147,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "__super__",
-              "map": "2820637d8af9",
+              "map": "3a9623b58af9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21164,7 +21164,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ValidationError",
-              "map": "2820637d8aa1",
+              "map": "3a9623b58aa1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21181,7 +21181,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Builder",
-              "map": "2820637d8d09",
+              "map": "3a9623b58d09",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21198,7 +21198,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Parser",
-              "map": "2820637d8d61",
+              "map": "3a9623b58d61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21215,7 +21215,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseString",
-              "map": "2820637d8db9",
+              "map": "3a9623b58db9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21232,7 +21232,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 147949,
+              "timestamp": 167231,
               "state": 1,
               "severity": 2
             }
@@ -21246,7 +21246,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 177392,
+              "timestamp": 209570,
               "state": 1,
               "severity": 2
             }
@@ -21260,7 +21260,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 177494,
+              "timestamp": 209675,
               "state": 1,
               "severity": 2
             }
@@ -21287,7 +21287,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21304,7 +21304,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toLowerCase",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -21313,7 +21313,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toLowerCase",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21330,7 +21330,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "toLowerCase",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             },
@@ -21339,7 +21339,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "toLowerCase",
-              "map": "282048602661",
+              "map": "3a965f682661",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21356,7 +21356,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 180164,
+              "timestamp": 213933,
               "state": 1,
               "severity": 2
             }
@@ -21370,7 +21370,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 184697,
+              "timestamp": 222660,
               "state": 1,
               "severity": 2
             }
@@ -21384,7 +21384,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 184856,
+              "timestamp": 222937,
               "state": 1,
               "severity": 2
             }
@@ -21398,7 +21398,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 184910,
+              "timestamp": 223023,
               "state": 1,
               "severity": 2
             }
@@ -21425,7 +21425,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "select",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21442,7 +21442,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "input",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21459,7 +21459,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "output",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21476,7 +21476,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "button",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21493,7 +21493,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "datalist",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21510,7 +21510,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "textarea",
-              "map": "2820637dfb61",
+              "map": "3a9623b5fb61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21527,7 +21527,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 178867,
+              "timestamp": 212139,
               "state": 1,
               "severity": 2
             }
@@ -21554,7 +21554,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "isTag",
-              "map": "2820637e0a81",
+              "map": "3a9623b60a81",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21571,7 +21571,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 186850,
+              "timestamp": 227330,
               "state": 1,
               "severity": 2
             }
@@ -21598,7 +21598,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "tagName",
-              "map": "2820637e0df1",
+              "map": "3a9623b60df1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -21607,7 +21607,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "childNodes",
-              "map": "2820637e0df1",
+              "map": "3a9623b60df1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -21616,7 +21616,7 @@
               "oldState": 2,
               "newState": 5,
               "key": "parentNode",
-              "map": "2820637e0df1",
+              "map": "3a9623b60df1",
               "optimizationState": 1,
               "severity": 3
             }
@@ -21633,7 +21633,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "defineProperty",
-              "map": "282063782361",
+              "map": "3a9623b02361",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21650,7 +21650,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "get",
-              "map": "2820637b1591",
+              "map": "3a9623b31591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21667,7 +21667,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "set",
-              "map": "2820637b1591",
+              "map": "3a9623b31591",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21684,7 +21684,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 187261,
+              "timestamp": 228016,
               "state": 1,
               "severity": 2
             }
@@ -21698,7 +21698,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 187425,
+              "timestamp": 228199,
               "state": 1,
               "severity": 2
             }
@@ -21725,7 +21725,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "tagName",
-              "map": "2820637e1059",
+              "map": "3a9623b61059",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21742,7 +21742,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 187846,
+              "timestamp": 229160,
               "state": 1,
               "severity": 2
             }
@@ -21756,7 +21756,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 188067,
+              "timestamp": 229515,
               "state": 1,
               "severity": 2
             }
@@ -21783,7 +21783,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "prototype",
-              "map": "2820637824c1",
+              "map": "3a9623b024c1",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21800,7 +21800,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 186362,
+              "timestamp": 226268,
               "state": 1,
               "severity": 2
             }
@@ -21827,7 +21827,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Parser",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21844,7 +21844,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "Tokenizer",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21861,7 +21861,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "ElementType",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21878,7 +21878,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DomHandler",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21895,7 +21895,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "DefaultHandler",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21912,7 +21912,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseDOM",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21929,7 +21929,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "parseFeed",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21946,7 +21946,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "createDomStream",
-              "map": "2820637e1c61",
+              "map": "3a9623b61c61",
               "optimizationState": 1,
               "severity": 1
             }
@@ -21963,7 +21963,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 178186,
+              "timestamp": 211067,
               "state": 1,
               "severity": 2
             }
@@ -21990,7 +21990,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "xml2js",
-              "map": "282063782571",
+              "map": "3a9623b02571",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22007,7 +22007,7 @@
               "oldState": 0,
               "newState": 1,
               "key": "htmlparser",
-              "map": "2820637e1d11",
+              "map": "3a9623b61d11",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22024,7 +22024,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2709",
+              "map": "3a9623b62709",
               "optimizationState": 1,
               "severity": 1
             },
@@ -22033,7 +22033,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2b29",
+              "map": "3a9623b62b29",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22050,7 +22050,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2709",
+              "map": "3a9623b62709",
               "optimizationState": 1,
               "severity": 1
             },
@@ -22059,7 +22059,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2b29",
+              "map": "3a9623b62b29",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22076,7 +22076,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2709",
+              "map": "3a9623b62709",
               "optimizationState": 1,
               "severity": 1
             },
@@ -22085,7 +22085,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "on",
-              "map": "2820637e2b29",
+              "map": "3a9623b62b29",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22102,7 +22102,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "push",
-              "map": "2820637828e1",
+              "map": "3a9623b028e1",
               "optimizationState": 1,
               "severity": 1
             },
@@ -22111,7 +22111,7 @@
               "oldState": 3,
               "newState": 2,
               "key": "push",
-              "map": "282063782a99",
+              "map": "3a9623b02a99",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22128,7 +22128,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "concat",
-              "map": "2820637b08d9",
+              "map": "3a9623b308d9",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22145,7 +22145,7 @@
               "oldState": 1,
               "newState": 2,
               "key": "parseString",
-              "map": "2820637d8e11",
+              "map": "3a9623b58e11",
               "optimizationState": 1,
               "severity": 1
             }
@@ -22162,7 +22162,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 146447,
+              "timestamp": 163343,
               "state": 1,
               "severity": 2
             }
@@ -22176,7 +22176,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 190821,
+              "timestamp": 232437,
               "state": 1,
               "severity": 2
             }
@@ -22190,7 +22190,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 199607,
+              "timestamp": 240575,
               "state": 1,
               "severity": 2
             }
@@ -22204,7 +22204,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 202766,
+              "timestamp": 243818,
               "state": 1,
               "severity": 2
             }
@@ -22230,7 +22230,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 128973,
+              "timestamp": 145668,
               "state": 1,
               "severity": 2
             }
@@ -22244,7 +22244,7 @@
           "isScript": false,
           "updates": [
             {
-              "timestamp": 134276,
+              "timestamp": 152867,
               "state": 1,
               "severity": 2
             }
@@ -22270,7 +22270,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 131460,
+              "timestamp": 149961,
               "state": 1,
               "severity": 2
             }
@@ -22296,7 +22296,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 180589,
+              "timestamp": 216648,
               "state": 1,
               "severity": 2
             }
@@ -22322,7 +22322,7 @@
           "isScript": true,
           "updates": [
             {
-              "timestamp": 185550,
+              "timestamp": 224599,
               "state": 1,
               "severity": 2
             }
